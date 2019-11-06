@@ -29,11 +29,89 @@ abstract class Instrument {
 
     private int i;
     public abstract void play(Note n);
-    public String what(){
+    public java.lang.String what(){
         return "Instrument";
     }
 
     public abstract void adjust();
 
+}
+
+class Wind extends Instrument{
+
+    @Override
+    public void play(Note n) {
+        System.out.println("Wind.play()" + n);
+    }
+
+    @Override
+    public String what() {
+        return "wind";
+    }
+
+    @Override
+    public void adjust() {
+
+    }
+}
+
+class Percussing extends Instrument{
+
+    @Override
+    public void play(Note n) {
+        System.out.println("Percussing.play()" + n);
+    }
+
+    @Override
+    public String what() {
+        return "Percussing";
+    }
+
+    @Override
+    public void adjust() {
+
+    }
+}
+
+class Stringed extends Instrument{
+
+    @Override
+    public void play(Note n) {
+        System.out.println("Stringed.play()" + n);
+    }
+
+    @Override
+    public String what() {
+        return "Stringed";
+    }
+
+    @Override
+    public void adjust() {
+
+    }
+}
+
+class Brass extends Wind{
+    @Override
+    public void play(Note n) {
+        System.out.println("Brass.play()" + n);
+    }
+
+    @Override
+    public void adjust() {
+        System.out.println("Barss.adjust()");
+    }
+}
+
+class Woodwind extends Wind{
+    @Override
+    public void play(Note n) {
+        System.out.println("Woodwind.play()" + n);
+    }
+
+    @Override
+    public String what() {
+        return "Woodwind";
+    }
 }
 
