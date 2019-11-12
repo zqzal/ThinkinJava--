@@ -18,6 +18,6 @@ public class FilterAdapter implements com.com.thinkingjava9.interfacetest.Proces
 
     @Override
     public Waveform process(Object input) {
-        return null;
+        return filter.process((Waveform) input);
     }
 }
