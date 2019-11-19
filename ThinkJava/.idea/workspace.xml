@@ -2,106 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="9a25296a-af60-4de7-8df6-78b4dd1072a5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava10/Parcell.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcell.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Bath.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Bath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Car.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Car.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Cartoon.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Cartoon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Detergent.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Detergent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/FinalData.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/FinalData.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/FinalOverridingIllusion.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/FinalOverridingIllusion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Jurassic.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Jurassic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Orc.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Orc.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/PlaceSetting.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/PlaceSetting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/SpaceShip.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/SpaceShip.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/SpaceShipControls.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/SpaceShipControls.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/SpaceShipDelegation.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/SpaceShipDelegation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/SprinklerSystem.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/SprinklerSystem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava7/Wind.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava7_1/Wind.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/A.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/A.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/ActionCharacter.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/ActionCharacter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/AdaptedRandomDoubles.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/AdaptedRandomDoubles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Adventure.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Adventure.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Apply.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Apply.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/BandPass.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/BandPass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/C.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/C.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/C2.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/C2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/C3.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/C3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/C4.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/C4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/CanFight.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/CanFight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/CanFly.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/CanFly.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/CanSwim.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/CanSwim.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Checkers.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Checkers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/CheckersFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/CheckersFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Chess.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Chess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/ChessFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/ChessFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/DangerousMonster.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/DangerousMonster.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/DragonZilla.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/DragonZilla.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/E.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/E.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Factories.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Factories.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Filter.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Filter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/FilterAdapter.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/FilterAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/FilterProcessor.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/FilterProcessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Game.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Game.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/GameFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/GameFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Games.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Games.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Hero.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Hero.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/HighPass.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/HighPass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/HorrorShow.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/HorrorShow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/I1.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/I1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/I2.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/I2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/I3.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/I3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Implementation1.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Implementation1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Implementation1Factory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Implementation1Factory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Implementation2.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Implementation2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Implementation2Factory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Implementation2Factory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Instrument.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Instrument.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Lethal.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Lethal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/LowPass.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/LowPass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Monster.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Monster.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Music4.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Music4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/MyString.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/MyString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/MyStringAdapter.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/MyStringProcessor.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringProcessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/NestingInterfaces.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/NestingInterfaces.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Processor.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Processor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/RandomDoubles.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/RandomDoubles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/RandomWords.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/RandomWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Service.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Service.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/ServiceFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/ServiceFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Vampire.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Vampire.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/VerBadVampire.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/VerBadVampire.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/Waveform.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/Waveform.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/interfacetest/9.4.1.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/interfacetest/9.4.1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/interfacetest/Apply.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/interfacetest/Apply.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/interfacetest/Processor.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/interfacetest/Processor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/interfacetest/StringProcess.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/interfacetest/StringProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/music5/Instrument.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/music5/Instrument.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/music5/Music5.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/music5/Music5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/Bicycle.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Bicycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/BicycleFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/BicycleFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/Cycle.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Cycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/CycleFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/CycleFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/CycleUse.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/CycleUse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/Tricycle.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Tricycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/TricycleFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/TricycleFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/UniCycle.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/UniCycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/UniCycleFactory.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/UniCycleFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.1.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.1.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.1.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.1.png.bak" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.1.png.bak" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.2.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.2.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.2.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.2.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.2.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.2.asta.lock" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.2.asta.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.2.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.3.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.3.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.4.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.4.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3.4.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3.4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3策略模式.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3策略模式.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3策略模式.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3策略模式.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.3策略模式.png.bak" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.3策略模式.png.bak" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.4.1策略模式.asta" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.4.1策略模式.asta" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkingjava9/uml/9.4.1策略模式.png" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava9/uml/9.4.1策略模式.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcell.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcel1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloDate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,117 +26,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Cycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CycleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/CycleFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniCycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/UniCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniCycleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/UniCycleFactory.java">
+      <file leaf-file-name="SimpleConstructor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/SimpleConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bicycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Bicycle.java">
+      <file leaf-file-name="SimpleConstructor2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/SimpleConstructor2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CycleUse.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/CycleUse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43052393">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parcell.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcell.java">
+      <file leaf-file-name="Spoon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/Spoon.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/C.java">
+      <file leaf-file-name="StaticInitilization.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/StaticInitilization.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tricycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/Tricycle.java">
+      <file leaf-file-name="StringArrayEx16.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/StringArrayEx16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TankTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/TankTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayClassObj.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/ArrayClassObj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyStringAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TricycleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/TricycleFactory.java">
+      <file leaf-file-name="Parcel1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcel1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.3690205">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -263,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/MyStringProcessor.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/CanFight.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/CanSwim.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/CanFly.java" />
@@ -314,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/TricycleFactory.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkingjava9/testFactory/CycleUse.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcell.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcel1.java" />
       </list>
     </option>
   </component>
@@ -330,8 +224,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="101" />
-    <option name="y" value="78" />
+    <option name="x" value="110" />
+    <option name="y" value="23" />
     <option name="width" value="1744" />
     <option name="height" value="996" />
   </component>
@@ -371,112 +265,6 @@
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugin.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -527,30 +315,8 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkinginjava9" />
+              <option name="myItemId" value="thinkinginjava12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -576,19 +342,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thinkinginjava9" />
+              <option name="myItemId" value="thinkinginjava10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testFactory" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1199,7 +983,8 @@
       <workItem from="1573714589838" duration="674000" />
       <workItem from="1573717807766" duration="3004000" />
       <workItem from="1573777981303" duration="3402000" />
-      <workItem from="1573785501765" duration="326000" />
+      <workItem from="1573785501765" duration="2047000" />
+      <workItem from="1574164810196" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="测试SVN提交">
       <created>1550222995048</created>
@@ -1313,7 +1098,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232559000" />
+    <option name="totallyTimeSpent" value="234298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1325,33 +1110,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="101" y="78" width="1744" height="996" extended-state="0" />
-    <editor active="true" />
+    <frame x="110" y="23" width="1744" height="996" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933578" sideWeight="0.49758786" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258294" sideWeight="0.49178404" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20258273" sideWeight="0.5284872" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47941887" sideWeight="0.555479" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3561947" sideWeight="0.47151276" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32841328" sideWeight="0.49758786" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26968274" sideWeight="0.4943662" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26968274" sideWeight="0.4943662" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929292" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19928825" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24295774" sideWeight="0.50563383" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3599677" sideWeight="0.4960707" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258294" sideWeight="0.49178404" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3561947" sideWeight="0.47151276" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929292" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3599677" sideWeight="0.4960707" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1449,77 +1234,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/ArrayNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/ArrayInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/ArrayClassObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/NestingInterfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="3" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/RandomDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/VerBadVampire.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1636,7 +1350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1644,12 +1357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1657,12 +1364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1670,7 +1371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1678,10 +1378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1689,10 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1700,7 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1708,7 +1399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1716,7 +1406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1724,7 +1413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1732,10 +1420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1743,7 +1427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1751,10 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1762,7 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1770,10 +1448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1781,7 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1789,10 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1800,10 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1811,10 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1822,10 +1483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1833,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1841,18 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1860,14 +1504,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/testFactory/CycleUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43052393">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/PrimitiveOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/SimpleConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/SimpleConstructor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/Spoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/StaticInitilization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/StringArrayEx16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/TankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava5/ArrayClassObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava9/MyStringAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava10/Parcel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3690205">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
