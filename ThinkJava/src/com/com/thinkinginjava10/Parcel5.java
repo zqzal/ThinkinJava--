@@ -16,10 +16,31 @@ package com.com.thinkinginjava10;
 5.一个匿名类，它执行字段初始化
 6.一个匿名类，它通过实例初始化实现构造（匿名类不可能有构造器）
  */
-public class Parcle5 {
+public class Parcel5 {
 
+    /**
+     * 在方法的作用域内（而不是其他类的作用域内）创建一个完整的类。这被称作局部内部类
+     * @param s
+     * @return
+     */
+    public Destination destination(String s){
 
-//    public Destination destination(String s){
-//
-//    }
+        class PDestination implements Destination{
+            private String label;
+            private PDestination(String whereTo){
+                label = whereTo;
+            }
+            @Override
+            public String readLabel(){
+                return label;
+            }
+        }
+
+        return new PDestination(s);
+    }
+
+    public static void main(String[] args) {
+        Parcel5 p = new Parcel5();
+        Destination d = p.destination("T");
+    }
 }
