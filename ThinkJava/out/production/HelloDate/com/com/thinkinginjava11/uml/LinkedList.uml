@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.LinkedList</OriginalElement>
+  <nodes>
+    <node x="1383.0" y="2098.5">java.lang.Cloneable</node>
+    <node x="0.0" y="751.0">java.util.AbstractCollection</node>
+    <node x="543.0" y="642.0">java.util.List</node>
+    <node x="633.0" y="145.0">java.util.Collection</node>
+    <node x="131.75" y="1413.0">java.util.AbstractList</node>
+    <node x="1441.626724296487" y="597.3099135552695">java.util.Queue</node>
+    <node x="282.1720238095239" y="2266.0">java.util.LinkedList</node>
+    <node x="1038.0" y="1337.0">java.util.Deque</node>
+    <node x="218.75" y="2010.0">java.util.AbstractSequentialList</node>
+    <node x="754.0000000000002" y="0.0">java.lang.Iterable</node>
+    <node x="-198.92961946947196" y="2238.4728192479997">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
+      <point x="0.0" y="-103.0" />
+      <point x="0.0" y="235.5" />
+    </edge>
+    <edge source="java.util.LinkedList" target="java.util.Deque">
+      <point x="259.5999999999998" y="-686.5" />
+      <point x="1190.7720238095237" y="2246.0" />
+      <point x="1372.5" y="2246.0" />
+      <point x="0.0" y="311.5" />
+    </edge>
+    <edge source="java.util.LinkedList" target="java.util.List">
+      <point x="-1.1368683772161603E-13" y="-686.5" />
+      <point x="931.1720238095238" y="2246.0" />
+      <point x="1027.5" y="2246.0" />
+      <point x="161.5" y="322.5" />
+    </edge>
+    <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+      <point x="-129.75" y="-235.5" />
+      <point x="0.0" y="213.5" />
+    </edge>
+    <edge source="java.util.Queue" target="java.util.Collection">
+      <point x="0.0" y="-80.5" />
+      <point x="1372.5" y="617.0" />
+      <point x="1021.3333333333335" y="617.0" />
+      <point x="155.33333333333337" y="223.5" />
+    </edge>
+    <edge source="java.util.LinkedList" target="java.lang.Cloneable">
+      <point x="519.1999999999999" y="-686.5" />
+      <point x="1450.3720238095239" y="2246.0" />
+      <point x="1430.0" y="2246.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.LinkedList" target="java.io.Serializable">
+      <point x="-519.2000000000002" y="-686.5" />
+      <point x="411.97202380952376" y="2246.0" />
+      <point x="147.25" y="2246.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.List" target="java.util.Collection">
+      <point x="0.0" y="-322.5" />
+      <point x="0.0" y="223.5" />
+    </edge>
+    <edge source="java.util.Deque" target="java.util.Queue">
+      <point x="0.0" y="-311.5" />
+      <point x="0.0" y="80.5" />
+    </edge>
+    <edge source="java.util.AbstractList" target="java.util.List">
+      <point x="129.75" y="-235.5" />
+      <point x="521.0" y="1312.0" />
+      <point x="704.5" y="1312.0" />
+      <point x="-161.5" y="322.5" />
+    </edge>
+    <edge source="java.util.Collection" target="java.lang.Iterable">
+      <point x="1.1368683772161603E-13" y="-223.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
+      <point x="-259.60000000000014" y="-686.5" />
+      <point x="671.5720238095238" y="2236.0" />
+      <point x="391.25" y="2236.0" />
+      <point x="0.0" y="103.0" />
+    </edge>
+    <edge source="java.util.AbstractCollection" target="java.util.Collection">
+      <point x="0.0" y="-213.5" />
+      <point x="261.5" y="617.0" />
+      <point x="710.6666666666667" y="617.0" />
+      <point x="-155.33333333333337" y="223.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="671.5" y="1993.5" />
+  <SelectedNodes>
+    <node>java.util.LinkedList</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
