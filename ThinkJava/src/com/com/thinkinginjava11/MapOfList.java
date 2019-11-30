@@ -13,7 +13,7 @@ import java.util.Map;
 public class MapOfList {
 
     public static Map<Person,List<? extends Pet>> petPeople = new HashMap<>();
-    
+
     static {
         petPeople.put(new Person("Dawn"), Arrays.asList(new Cymric("Mollu"),new Mutt("Spot")));
         petPeople.put(new Person("Kate"),Arrays.asList(new Pug("Louie"),new Cat("Stanford"),new Cat("Pinkola")));
