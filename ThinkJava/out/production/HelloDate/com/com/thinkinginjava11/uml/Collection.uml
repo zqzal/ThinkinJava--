@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.Collection</OriginalElement>
+  <nodes>
+    <node x="0.0" y="145.0">java.util.Collection</node>
+    <node x="121.0" y="0.0">java.lang.Iterable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.Collection" target="java.lang.Iterable">
+      <point x="0.0" y="-223.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="233.0" y="296.0" />
+  <SelectedNodes>
+    <node>java.util.Collection</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

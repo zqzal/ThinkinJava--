@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="9a25296a-af60-4de7-8df6-78b4dd1072a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/Stack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/StackCollision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/StackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/LinkedListFeatures.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/LinkedListFeatures.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/MapOfList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/PetMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOfInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOperations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/SortedSetOfInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/Statistics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava11/UniqueWords.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java编程思想4.xmind" afterPath="$PROJECT_DIR$/../Java编程思想4.xmind" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/StackCollision.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/StackCollision.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloDate.iws" />
@@ -40,71 +45,315 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StackCollision.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/StackCollision.java">
+      <file leaf-file-name="SetOperations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOperations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class.uml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Class.uml">
+      <file leaf-file-name="UniqueWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/UniqueWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Statistics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/Statistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/PetMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapOfList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/MapOfList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4245283">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.uml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/HashMap.uml">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>java.lang.Class</OriginalElement>
+              <OriginalElement>java.util.HashMap</OriginalElement>
               <nodes>
-                <node x="1162.0" y="233.0">java.lang.reflect.GenericDeclaration</node>
-                <node x="1479.0" y="233.0">java.lang.reflect.Type</node>
-                <node x="-2.0" y="496.0">java.lang.Class</node>
-                <node x="1686.0" y="244.0">java.io.Serializable</node>
-                <node x="1115.25" y="0.0">java.lang.reflect.AnnotatedElement</node>
+                <node x="1886.5833333333333" y="3192.5">java.util.HashMap.KeySpliterator</node>
+                <node x="2939.083333333333" y="2725.5">java.util.HashMap.HashIterator</node>
+                <node x="3014.5698529411766" y="851.5">java.lang.Cloneable</node>
+                <node x="3260.083333333333" y="2726.0">java.util.HashMap.KeySet</node>
+                <node x="803.5833333333333" y="3016.0">java.util.HashMap.TreeNode</node>
+                <node x="2683.833333333333" y="2737.0">java.util.HashMap.Values</node>
+                <node x="2339.583333333333" y="3192.5">java.util.HashMap.ValueSpliterator</node>
+                <node x="3149.1101998491704" y="3225.5">java.util.HashMap.KeyIterator</node>
+                <node x="2022.0833333333333" y="2714.5">java.util.HashMap.HashMapSpliterator</node>
+                <node x="2072.333333333333" y="1172.0">java.util.HashMap</node>
+                <node x="463.08333333333326" y="2692.0">java.util.AbstractMap.SimpleImmutableEntry</node>
+                <node x="1423.5833333333333" y="3192.5">java.util.HashMap.EntrySpliterator</node>
+                <node x="3622.083333333333" y="2726.0">java.util.HashMap.EntrySet</node>
+                <node x="517.3333333333333" y="851.5">java.io.Serializable</node>
+                <node x="640.3333333333333" y="630.0">java.util.AbstractMap</node>
+                <node x="871.0833333333333" y="2692.0">java.util.HashMap.Node</node>
+                <node x="609.3333333333333" y="0.0">java.util.Map</node>
+                <node x="376.8185331825041" y="1778.0">java.util.Map.Entry</node>
+                <node x="3488.583333333333" y="3225.5">java.util.HashMap.ValueIterator</node>
+                <node x="2878.833333333333" y="3225.5">java.util.HashMap.EntryIterator</node>
+                <node x="0.0" y="2692.0">java.util.AbstractMap.SimpleEntry</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="java.lang.reflect.GenericDeclaration" target="java.lang.reflect.AnnotatedElement">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1310.0" y="208.0" />
-                  <point x="1252.25" y="208.0" />
-                  <point x="-137.0" y="91.5" />
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.AbstractMap">
+                  <point x="0.0" y="-137.0" />
+                  <point x="194.0" y="2672.0" />
+                  <point x="134.83333333333326" y="2672.0" />
+                  <point x="134.83333333333326" y="1152.0" />
+                  <point x="727.6666666666667" y="1152.0" />
+                  <point x="-174.66666666666652" y="236.0" />
                 </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.Type">
-                  <point x="380.125" y="-1610.5" />
-                  <point x="1900.625" y="314.0" />
-                  <point x="1572.5" y="314.0" />
-                  <point x="0.0" y="25.5" />
+                <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap">
+                  <point x="41.0" y="-37.0" />
+                  <point x="3611.583333333333" y="2652.0" />
+                  <point x="3353.25641025641" y="2652.0" />
+                  <point x="556.9230769230771" y="720.0" />
                 </edge>
-                <edge source="java.lang.Class" target="java.io.Serializable">
-                  <point x="1140.375" y="-1610.5" />
-                  <point x="2660.875" y="304.0" />
-                  <point x="1737.5" y="304.0" />
+                <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap">
+                  <point x="150.0" y="-246.5" />
+                  <point x="1253.5833333333333" y="2996.0" />
+                  <point x="1184.5833333333333" y="2996.0" />
+                  <point x="1184.5833333333333" y="2642.0" />
+                  <point x="2239.410256410256" y="2642.0" />
+                  <point x="-556.9230769230771" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.Map">
+                  <point x="181.0" y="-720.0" />
+                  <point x="2977.333333333333" y="1152.0" />
+                  <point x="3004.0698529411766" y="1152.0" />
+                  <point x="3004.0698529411766" y="605.0" />
+                  <point x="1097.6666666666665" y="605.0" />
+                  <point x="195.33333333333326" y="290.0" />
+                </edge>
+                <edge source="java.util.HashMap.Node" target="java.util.Map.Entry">
+                  <point x="-75.75" y="-137.0" />
+                  <point x="946.8333333333333" y="2662.0" />
+                  <point x="620.9851998491708" y="2662.0" />
+                  <point x="97.66666666666674" y="114.0" />
+                </edge>
+                <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+                  <point x="75.75" y="-137.0" />
+                  <point x="1098.3333333333333" y="2632.0" />
+                  <point x="2128.0256410256407" y="2632.0" />
+                  <point x="-668.3076923076924" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.Map.Entry">
+                  <point x="-129.33333333333337" y="-137.0" />
+                  <point x="527.7499999999998" y="2672.0" />
+                  <point x="523.3185331825041" y="2672.0" />
+                  <point x="0.0" y="114.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="110.75" y="-70.0" />
+                  <point x="1755.8333333333333" y="2996.0" />
+                  <point x="2079.583333333333" y="2996.0" />
+                  <point x="-115.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap">
+                  <point x="-110.75" y="-70.0" />
+                  <point x="1534.3333333333333" y="2652.0" />
+                  <point x="2350.794871794872" y="2652.0" />
+                  <point x="-445.53846153846143" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.lang.Cloneable">
+                  <point x="543.0" y="-720.0" />
+                  <point x="3339.333333333333" y="1152.0" />
+                  <point x="3061.5698529411766" y="1152.0" />
                   <point x="0.0" y="14.5" />
                 </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.AnnotatedElement">
-                  <point x="-380.125" y="-1610.5" />
-                  <point x="1140.375" y="314.0" />
-                  <point x="1468.5" y="314.0" />
-                  <point x="1468.5" y="208.0" />
-                  <point x="1526.25" y="208.0" />
-                  <point x="137.0" y="91.5" />
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.io.Serializable">
+                  <point x="-129.33333333333326" y="-137.0" />
+                  <point x="64.66666666666674" y="2672.0" />
+                  <point x="123.83333333333326" y="2672.0" />
+                  <point x="123.83333333333326" y="1142.0" />
+                  <point x="534.4999999999998" y="1142.0" />
+                  <point x="-34.333333333333485" y="14.5" />
                 </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.GenericDeclaration">
-                  <point x="-1140.375" y="-1610.5" />
-                  <point x="380.125" y="304.0" />
-                  <point x="1310.0" y="304.0" />
-                  <point x="0.0" y="25.5" />
+                <edge source="java.util.HashMap.HashIterator" target="java.util.HashMap">
+                  <point x="0.0" y="-103.5" />
+                  <point x="3089.583333333333" y="2672.0" />
+                  <point x="3019.1025641025635" y="2672.0" />
+                  <point x="222.7692307692305" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.AbstractMap">
+                  <point x="129.33333333333348" y="-137.0" />
+                  <point x="786.4166666666667" y="2672.0" />
+                  <point x="902.3333333333333" y="2672.0" />
+                  <point x="0.0" y="236.0" />
+                </edge>
+                <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap.HashIterator">
+                  <point x="-41.0" y="-37.0" />
+                  <point x="3529.583333333333" y="2986.0" />
+                  <point x="3189.916666666667" y="2986.0" />
+                  <point x="100.33333333333348" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.Values" target="java.util.HashMap">
+                  <point x="0.0" y="-92.0" />
+                  <point x="0.0" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.HashMapSpliterator" target="java.util.HashMap">
+                  <point x="0.0" y="-114.5" />
+                  <point x="2194.583333333333" y="2672.0" />
+                  <point x="2573.5641025641025" y="2672.0" />
+                  <point x="-222.7692307692305" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap.HashIterator">
+                  <point x="-38.0" y="-37.0" />
+                  <point x="3187.1101998491704" y="2996.0" />
+                  <point x="3089.583333333333" y="2996.0" />
+                  <point x="0.0" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap.Node">
+                  <point x="-150.0" y="-246.5" />
+                  <point x="953.5833333333333" y="2996.0" />
+                  <point x="1022.5833333333333" y="2996.0" />
+                  <point x="0.0" y="137.0" />
+                </edge>
+                <edge source="java.util.HashMap.KeySet" target="java.util.HashMap">
+                  <point x="0.0" y="-103.0" />
+                  <point x="3382.583333333333" y="2672.0" />
+                  <point x="3130.4871794871797" y="2672.0" />
+                  <point x="334.1538461538462" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.AbstractMap">
+                  <point x="-181.0" y="-720.0" />
+                  <point x="2615.333333333333" y="1122.0" />
+                  <point x="1077.0" y="1122.0" />
+                  <point x="174.66666666666674" y="236.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.Map.Entry">
+                  <point x="129.33333333333337" y="-137.0" />
+                  <point x="323.33333333333326" y="2672.0" />
+                  <point x="425.65186651583736" y="2672.0" />
+                  <point x="-97.66666666666669" y="114.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap.HashIterator">
+                  <point x="40.5" y="-37.0" />
+                  <point x="3000.333333333333" y="2996.0" />
+                  <point x="2989.25" y="2996.0" />
+                  <point x="-100.33333333333348" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap">
+                  <point x="111.25" y="-70.0" />
+                  <point x="2673.333333333333" y="2672.0" />
+                  <point x="2684.948717948718" y="2672.0" />
+                  <point x="-111.38461538461524" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.io.Serializable">
+                  <point x="0.0" y="-137.0" />
+                  <point x="657.0833333333333" y="2672.0" />
+                  <point x="727.3185331825041" y="2672.0" />
+                  <point x="727.3185331825041" y="1142.0" />
+                  <point x="568.8333333333333" y="1142.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap">
+                  <point x="-108.25" y="-70.0" />
+                  <point x="1994.8333333333333" y="2986.0" />
+                  <point x="2011.5833333333333" y="2986.0" />
+                  <point x="2011.5833333333333" y="2662.0" />
+                  <point x="2462.1794871794873" y="2662.0" />
+                  <point x="-334.1538461538462" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="-111.25" y="-70.0" />
+                  <point x="2450.833333333333" y="2996.0" />
+                  <point x="2309.583333333333" y="2996.0" />
+                  <point x="115.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="108.25" y="-70.0" />
+                  <point x="2211.333333333333" y="2996.0" />
+                  <point x="2194.583333333333" y="2996.0" />
+                  <point x="0.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap">
+                  <point x="38.0" y="-37.0" />
+                  <point x="3263.1101998491704" y="2996.0" />
+                  <point x="3515.583333333333" y="2996.0" />
+                  <point x="3515.583333333333" y="2662.0" />
+                  <point x="3241.871794871795" y="2662.0" />
+                  <point x="445.5384615384619" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap" target="java.util.Map">
+                  <point x="0.0" y="-236.0" />
+                  <point x="0.0" y="290.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySet" target="java.util.HashMap">
+                  <point x="0.0" y="-103.0" />
+                  <point x="3749.583333333333" y="2642.0" />
+                  <point x="3464.6410256410254" y="2642.0" />
+                  <point x="668.3076923076924" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.io.Serializable">
+                  <point x="-543.0" y="-720.0" />
+                  <point x="2253.333333333333" y="1132.0" />
+                  <point x="603.1666666666667" y="1132.0" />
+                  <point x="34.33333333333337" y="14.5" />
+                </edge>
+                <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap">
+                  <point x="-40.5" y="-37.0" />
+                  <point x="2919.333333333333" y="2672.0" />
+                  <point x="2907.7179487179483" y="2672.0" />
+                  <point x="111.38461538461524" y="720.0" />
+                </edge>
+                <edge source="java.util.Map.Entry" target="java.util.Map">
+                  <point x="0.0" y="-114.0" />
+                  <point x="523.3185331825041" y="1132.0" />
+                  <point x="411.83333333333326" y="1132.0" />
+                  <point x="411.83333333333326" y="605.0" />
+                  <point x="706.9999999999998" y="605.0" />
+                  <point x="-195.33333333333348" y="290.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.8999999999999999" x="1334.3333333333335" y="136.33333333333337" />
-              <SelectedNodes>
-                <node>java.lang.Class</node>
-              </SelectedNodes>
+              <settings layout="Hierarchic Group" zoom="0.8725701331822044" x="461.0495242425227" y="456.0495242425227" />
+              <SelectedNodes />
               <Categories>
                 <Category>Fields</Category>
+                <Category>Inner Classes</Category>
                 <Category>Constructors</Category>
+                <Category>Properties</Category>
                 <Category>Methods</Category>
               </Categories>
               <SCOPE>All</SCOPE>
@@ -113,109 +362,273 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.uml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Object.uml">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.lang.Object</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">java.lang.Object</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-260.5" y="93.5" />
-              <SelectedNodes>
-                <node>java.lang.Object</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+              <folding>
+                <element signature="e#66765#66766#0" expanded="true" />
+                <element signature="e#66822#66823#0" expanded="true" />
+                <element signature="e#66936#66937#0" expanded="true" />
+                <element signature="e#66999#67000#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashSet.uml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/HashSet.uml">
+      <file leaf-file-name="JAVA/java.util.HashMap" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.HashMap">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>java.util.HashSet</OriginalElement>
+              <OriginalElement>java.util.HashMap</OriginalElement>
               <nodes>
-                <node x="533.9722222222222" y="1287.0">java.util.HashSet</node>
-                <node x="0.0" y="642.0">java.util.AbstractCollection</node>
-                <node x="981.0" y="1163.5">java.lang.Cloneable</node>
-                <node x="291.9444444444444" y="145.0">java.util.Collection</node>
-                <node x="212.5" y="1119.0">java.util.AbstractSet</node>
-                <node x="543.0" y="665.0">java.util.Set</node>
-                <node x="412.9444444444444" y="0.0">java.lang.Iterable</node>
-                <node x="858.0" y="1163.5">java.io.Serializable</node>
+                <node x="1886.5833333333333" y="3192.5">java.util.HashMap.KeySpliterator</node>
+                <node x="2939.083333333333" y="2725.5">java.util.HashMap.HashIterator</node>
+                <node x="3014.5698529411766" y="851.5">java.lang.Cloneable</node>
+                <node x="3260.083333333333" y="2726.0">java.util.HashMap.KeySet</node>
+                <node x="803.5833333333333" y="3016.0">java.util.HashMap.TreeNode</node>
+                <node x="2683.833333333333" y="2737.0">java.util.HashMap.Values</node>
+                <node x="2339.583333333333" y="3192.5">java.util.HashMap.ValueSpliterator</node>
+                <node x="3149.1101998491704" y="3225.5">java.util.HashMap.KeyIterator</node>
+                <node x="2022.0833333333333" y="2714.5">java.util.HashMap.HashMapSpliterator</node>
+                <node x="2072.333333333333" y="1172.0">java.util.HashMap</node>
+                <node x="463.08333333333326" y="2692.0">java.util.AbstractMap.SimpleImmutableEntry</node>
+                <node x="1423.5833333333333" y="3192.5">java.util.HashMap.EntrySpliterator</node>
+                <node x="3622.083333333333" y="2726.0">java.util.HashMap.EntrySet</node>
+                <node x="517.3333333333333" y="851.5">java.io.Serializable</node>
+                <node x="640.3333333333333" y="630.0">java.util.AbstractMap</node>
+                <node x="871.0833333333333" y="2692.0">java.util.HashMap.Node</node>
+                <node x="609.3333333333333" y="0.0">java.util.Map</node>
+                <node x="376.8185331825041" y="1778.0">java.util.Map.Entry</node>
+                <node x="3488.583333333333" y="3225.5">java.util.HashMap.ValueIterator</node>
+                <node x="2878.833333333333" y="3225.5">java.util.HashMap.EntryIterator</node>
+                <node x="0.0" y="2692.0">java.util.AbstractMap.SimpleEntry</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="java.util.HashSet" target="java.util.AbstractSet">
-                  <point x="-205.5" y="-224.5" />
-                  <point x="602.4722222222222" y="1262.0" />
-                  <point x="310.5" y="1262.0" />
-                  <point x="0.0" y="59.0" />
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.AbstractMap">
+                  <point x="0.0" y="-137.0" />
+                  <point x="194.0" y="2672.0" />
+                  <point x="134.83333333333326" y="2672.0" />
+                  <point x="134.83333333333326" y="1152.0" />
+                  <point x="727.6666666666667" y="1152.0" />
+                  <point x="-174.66666666666652" y="236.0" />
                 </edge>
-                <edge source="java.util.HashSet" target="java.util.Set">
-                  <point x="-68.5" y="-224.5" />
-                  <point x="739.4722222222222" y="1262.0" />
-                  <point x="847.5" y="1262.0" />
-                  <point x="101.49999999999999" y="190.5" />
+                <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap">
+                  <point x="41.0" y="-37.0" />
+                  <point x="3611.583333333333" y="2652.0" />
+                  <point x="3353.25641025641" y="2652.0" />
+                  <point x="556.9230769230771" y="720.0" />
                 </edge>
-                <edge source="java.util.Set" target="java.util.Collection">
-                  <point x="0.0" y="-190.5" />
-                  <point x="746.0" y="617.0" />
-                  <point x="641.4444444444443" y="617.0" />
-                  <point x="116.5" y="223.5" />
+                <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap">
+                  <point x="150.0" y="-246.5" />
+                  <point x="1253.5833333333333" y="2996.0" />
+                  <point x="1184.5833333333333" y="2996.0" />
+                  <point x="1184.5833333333333" y="2642.0" />
+                  <point x="2239.410256410256" y="2642.0" />
+                  <point x="-556.9230769230771" y="720.0" />
                 </edge>
-                <edge source="java.util.Collection" target="java.lang.Iterable">
-                  <point x="0.0" y="-223.5" />
-                  <point x="0.0" y="47.5" />
+                <edge source="java.util.HashMap" target="java.util.Map">
+                  <point x="181.0" y="-720.0" />
+                  <point x="2977.333333333333" y="1152.0" />
+                  <point x="3004.0698529411766" y="1152.0" />
+                  <point x="3004.0698529411766" y="605.0" />
+                  <point x="1097.6666666666665" y="605.0" />
+                  <point x="195.33333333333326" y="290.0" />
                 </edge>
-                <edge source="java.util.AbstractSet" target="java.util.Set">
-                  <point x="49.0" y="-59.0" />
-                  <point x="359.5" y="1094.0" />
-                  <point x="644.5" y="1094.0" />
-                  <point x="-101.5" y="190.5" />
+                <edge source="java.util.HashMap.Node" target="java.util.Map.Entry">
+                  <point x="-75.75" y="-137.0" />
+                  <point x="946.8333333333333" y="2662.0" />
+                  <point x="620.9851998491708" y="2662.0" />
+                  <point x="97.66666666666674" y="114.0" />
                 </edge>
-                <edge source="java.util.HashSet" target="java.lang.Cloneable">
-                  <point x="205.5" y="-224.5" />
-                  <point x="1013.4722222222222" y="1262.0" />
-                  <point x="1028.0" y="1262.0" />
+                <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+                  <point x="75.75" y="-137.0" />
+                  <point x="1098.3333333333333" y="2632.0" />
+                  <point x="2128.0256410256407" y="2632.0" />
+                  <point x="-668.3076923076924" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.Map.Entry">
+                  <point x="-129.33333333333337" y="-137.0" />
+                  <point x="527.7499999999998" y="2672.0" />
+                  <point x="523.3185331825041" y="2672.0" />
+                  <point x="0.0" y="114.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="110.75" y="-70.0" />
+                  <point x="1755.8333333333333" y="2996.0" />
+                  <point x="2079.583333333333" y="2996.0" />
+                  <point x="-115.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap">
+                  <point x="-110.75" y="-70.0" />
+                  <point x="1534.3333333333333" y="2652.0" />
+                  <point x="2350.794871794872" y="2652.0" />
+                  <point x="-445.53846153846143" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.lang.Cloneable">
+                  <point x="543.0" y="-720.0" />
+                  <point x="3339.333333333333" y="1152.0" />
+                  <point x="3061.5698529411766" y="1152.0" />
                   <point x="0.0" y="14.5" />
                 </edge>
-                <edge source="java.util.AbstractCollection" target="java.util.Collection">
-                  <point x="0.0" y="-213.5" />
-                  <point x="261.5" y="617.0" />
-                  <point x="408.4444444444444" y="617.0" />
-                  <point x="-116.5" y="223.5" />
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.io.Serializable">
+                  <point x="-129.33333333333326" y="-137.0" />
+                  <point x="64.66666666666674" y="2672.0" />
+                  <point x="123.83333333333326" y="2672.0" />
+                  <point x="123.83333333333326" y="1142.0" />
+                  <point x="534.4999999999998" y="1142.0" />
+                  <point x="-34.333333333333485" y="14.5" />
                 </edge>
-                <edge source="java.util.AbstractSet" target="java.util.AbstractCollection">
-                  <point x="-49.0" y="-59.0" />
-                  <point x="0.0" y="213.5" />
+                <edge source="java.util.HashMap.HashIterator" target="java.util.HashMap">
+                  <point x="0.0" y="-103.5" />
+                  <point x="3089.583333333333" y="2672.0" />
+                  <point x="3019.1025641025635" y="2672.0" />
+                  <point x="222.7692307692305" y="720.0" />
                 </edge>
-                <edge source="java.util.HashSet" target="java.io.Serializable">
-                  <point x="68.5" y="-224.5" />
-                  <point x="876.4722222222222" y="1262.0" />
-                  <point x="909.5" y="1262.0" />
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.AbstractMap">
+                  <point x="129.33333333333348" y="-137.0" />
+                  <point x="786.4166666666667" y="2672.0" />
+                  <point x="902.3333333333333" y="2672.0" />
+                  <point x="0.0" y="236.0" />
+                </edge>
+                <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap.HashIterator">
+                  <point x="-41.0" y="-37.0" />
+                  <point x="3529.583333333333" y="2986.0" />
+                  <point x="3189.916666666667" y="2986.0" />
+                  <point x="100.33333333333348" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.Values" target="java.util.HashMap">
+                  <point x="0.0" y="-92.0" />
+                  <point x="0.0" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.HashMapSpliterator" target="java.util.HashMap">
+                  <point x="0.0" y="-114.5" />
+                  <point x="2194.583333333333" y="2672.0" />
+                  <point x="2573.5641025641025" y="2672.0" />
+                  <point x="-222.7692307692305" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap.HashIterator">
+                  <point x="-38.0" y="-37.0" />
+                  <point x="3187.1101998491704" y="2996.0" />
+                  <point x="3089.583333333333" y="2996.0" />
+                  <point x="0.0" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap.Node">
+                  <point x="-150.0" y="-246.5" />
+                  <point x="953.5833333333333" y="2996.0" />
+                  <point x="1022.5833333333333" y="2996.0" />
+                  <point x="0.0" y="137.0" />
+                </edge>
+                <edge source="java.util.HashMap.KeySet" target="java.util.HashMap">
+                  <point x="0.0" y="-103.0" />
+                  <point x="3382.583333333333" y="2672.0" />
+                  <point x="3130.4871794871797" y="2672.0" />
+                  <point x="334.1538461538462" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.AbstractMap">
+                  <point x="-181.0" y="-720.0" />
+                  <point x="2615.333333333333" y="1122.0" />
+                  <point x="1077.0" y="1122.0" />
+                  <point x="174.66666666666674" y="236.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.Map.Entry">
+                  <point x="129.33333333333337" y="-137.0" />
+                  <point x="323.33333333333326" y="2672.0" />
+                  <point x="425.65186651583736" y="2672.0" />
+                  <point x="-97.66666666666669" y="114.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap.HashIterator">
+                  <point x="40.5" y="-37.0" />
+                  <point x="3000.333333333333" y="2996.0" />
+                  <point x="2989.25" y="2996.0" />
+                  <point x="-100.33333333333348" y="103.5" />
+                </edge>
+                <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap">
+                  <point x="111.25" y="-70.0" />
+                  <point x="2673.333333333333" y="2672.0" />
+                  <point x="2684.948717948718" y="2672.0" />
+                  <point x="-111.38461538461524" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.io.Serializable">
+                  <point x="0.0" y="-137.0" />
+                  <point x="657.0833333333333" y="2672.0" />
+                  <point x="727.3185331825041" y="2672.0" />
+                  <point x="727.3185331825041" y="1142.0" />
+                  <point x="568.8333333333333" y="1142.0" />
                   <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap">
+                  <point x="-108.25" y="-70.0" />
+                  <point x="1994.8333333333333" y="2986.0" />
+                  <point x="2011.5833333333333" y="2986.0" />
+                  <point x="2011.5833333333333" y="2662.0" />
+                  <point x="2462.1794871794873" y="2662.0" />
+                  <point x="-334.1538461538462" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="-111.25" y="-70.0" />
+                  <point x="2450.833333333333" y="2996.0" />
+                  <point x="2309.583333333333" y="2996.0" />
+                  <point x="115.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap.HashMapSpliterator">
+                  <point x="108.25" y="-70.0" />
+                  <point x="2211.333333333333" y="2996.0" />
+                  <point x="2194.583333333333" y="2996.0" />
+                  <point x="0.0" y="114.5" />
+                </edge>
+                <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap">
+                  <point x="38.0" y="-37.0" />
+                  <point x="3263.1101998491704" y="2996.0" />
+                  <point x="3515.583333333333" y="2996.0" />
+                  <point x="3515.583333333333" y="2662.0" />
+                  <point x="3241.871794871795" y="2662.0" />
+                  <point x="445.5384615384619" y="720.0" />
+                </edge>
+                <edge source="java.util.AbstractMap" target="java.util.Map">
+                  <point x="0.0" y="-236.0" />
+                  <point x="0.0" y="290.0" />
+                </edge>
+                <edge source="java.util.HashMap.EntrySet" target="java.util.HashMap">
+                  <point x="0.0" y="-103.0" />
+                  <point x="3749.583333333333" y="2642.0" />
+                  <point x="3464.6410256410254" y="2642.0" />
+                  <point x="668.3076923076924" y="720.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.io.Serializable">
+                  <point x="-543.0" y="-720.0" />
+                  <point x="2253.333333333333" y="1132.0" />
+                  <point x="603.1666666666667" y="1132.0" />
+                  <point x="34.33333333333337" y="14.5" />
+                </edge>
+                <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap">
+                  <point x="-40.5" y="-37.0" />
+                  <point x="2919.333333333333" y="2672.0" />
+                  <point x="2907.7179487179483" y="2672.0" />
+                  <point x="111.38461538461524" y="720.0" />
+                </edge>
+                <edge source="java.util.Map.Entry" target="java.util.Map">
+                  <point x="0.0" y="-114.0" />
+                  <point x="523.3185331825041" y="1132.0" />
+                  <point x="411.83333333333326" y="1132.0" />
+                  <point x="411.83333333333326" y="605.0" />
+                  <point x="706.9999999999998" y="605.0" />
+                  <point x="-195.33333333333348" y="290.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.39863325740318906" x="-546.4657142857144" y="706.1971428571428" />
+              <settings layout="Hierarchic Group" zoom="0.37257013318220455" x="1163.1740188621843" y="2741.1740188621843" />
               <SelectedNodes>
-                <node>java.util.HashSet</node>
+                <node>java.util.HashMap</node>
               </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
                 <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
@@ -223,130 +636,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+              <caret line="5400" column="26" selection-start-line="5400" selection-start-column="26" selection-end-line="5400" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/java.lang.Class" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/java.lang.Class">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.lang.Class</OriginalElement>
-              <nodes>
-                <node x="1162.0" y="233.0">java.lang.reflect.GenericDeclaration</node>
-                <node x="1479.0" y="233.0">java.lang.reflect.Type</node>
-                <node x="-2.0" y="496.0">java.lang.Class</node>
-                <node x="1686.0" y="244.0">java.io.Serializable</node>
-                <node x="1115.25" y="0.0">java.lang.reflect.AnnotatedElement</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="java.lang.reflect.GenericDeclaration" target="java.lang.reflect.AnnotatedElement">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1310.0" y="208.0" />
-                  <point x="1252.25" y="208.0" />
-                  <point x="-137.0" y="91.5" />
-                </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.GenericDeclaration">
-                  <point x="-1140.375" y="-1610.5" />
-                  <point x="380.125" y="304.0" />
-                  <point x="1310.0" y="304.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.Type">
-                  <point x="380.125" y="-1610.5" />
-                  <point x="1900.625" y="314.0" />
-                  <point x="1572.5" y="314.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="java.lang.Class" target="java.io.Serializable">
-                  <point x="1140.375" y="-1610.5" />
-                  <point x="2660.875" y="304.0" />
-                  <point x="1737.5" y="304.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="java.lang.Class" target="java.lang.reflect.AnnotatedElement">
-                  <point x="-380.125" y="-1610.5" />
-                  <point x="1140.375" y="314.0" />
-                  <point x="1468.5" y="314.0" />
-                  <point x="1468.5" y="208.0" />
-                  <point x="1526.25" y="208.0" />
-                  <point x="137.0" y="91.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.8999999999999999" x="227.66666666666669" y="1045.6666666666667" />
-              <SelectedNodes>
-                <node>java.lang.Class</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/java.lang.Object" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/java.lang.Object">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.lang.Object</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">java.lang.Object</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-261.0" y="93.5" />
-              <SelectedNodes>
-                <node>java.lang.Object</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="610" column="6" selection-start-line="610" selection-start-column="6" selection-end-line="610" selection-end-column="6" />
+              <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -376,13 +680,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava10/BigEgg2.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava10/Counters.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava10/LocalInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Apple.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/ApplesAndOrangesWithoutGenerics.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/ApplesAndOrangesWithGeneies.java" />
-        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/GrannySmith.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Fuji.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Gala.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Braeburn.java" />
@@ -427,6 +724,13 @@
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/StackTest.java" />
         <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/StackCollision.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/SortedSetOfInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOfInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/UniqueWords.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/PetMap.java" />
+        <option value="$PROJECT_DIR$/src/com/com/thinkinginjava11/MapOfList.java" />
       </list>
     </option>
   </component>
@@ -446,7 +750,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
+    <option name="x" value="206" />
     <option name="y" value="23" />
     <option name="width" value="1817" />
     <option name="height" value="1088" />
@@ -567,32 +871,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ThinkJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -634,10 +912,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkinginjava12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -697,28 +971,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -761,15 +1013,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackCollision">
-    <configuration default="false" name="CrossContainerIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MapOfList">
+    <configuration default="false" name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.com.thinkinginjava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.CrossContainerIteration" />
+      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.SetOfInteger" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -782,14 +1034,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.com.thinkinginjava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.ListIteration" />
+      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.SetOperations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -802,14 +1054,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LinkedListFeatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.com.thinkinginjava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.LinkedListFeatures" />
+      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.Statistics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -822,14 +1074,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.com.thinkinginjava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.StackTest" />
+      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.PetMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -842,14 +1094,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="StackCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MapOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.com.thinkinginjava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.StackCollision" />
+      <option name="MAIN_CLASS_NAME" value="com.com.thinkinginjava11.MapOfList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1251,19 +1503,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CrossContainerIteration" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ListIteration" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LinkedListFeatures" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StackTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StackCollision" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SetOfInteger" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SetOperations" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Statistics" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PetMap" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MapOfList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StackCollision" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StackTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LinkedListFeatures" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ListIteration" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CrossContainerIteration" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MapOfList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PetMap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Statistics" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SetOperations" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SetOfInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -1370,7 +1622,7 @@
       <workItem from="1575011102925" duration="2876000" />
       <workItem from="1575014184544" duration="3700000" />
       <workItem from="1575019253186" duration="2025000" />
-      <workItem from="1575078220864" duration="2112000" />
+      <workItem from="1575078220864" duration="11813000" />
     </task>
     <task id="LOCAL-00001" summary="测试SVN提交">
       <created>1550222995048</created>
@@ -1484,7 +1736,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350432000" />
+    <option name="totallyTimeSpent" value="360133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1496,7 +1748,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="23" width="1817" height="1088" extended-state="0" />
+    <frame x="206" y="23" width="1817" height="1088" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1525,33 +1777,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24984986" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4608051" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23940678" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24258475" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25521126" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="UML design tool window" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1653,7 +1878,7 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1662,1358 +1887,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/com.com.thinkinginjava11.CrossContainerIteration">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.com.thinkinginjava11.CrossContainerIteration</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.com.thinkinginjava11.CrossContainerIteration</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-259.0" y="-168.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util</OriginalElement>
-          <nodes>
-            <node x="3702.0" y="7213.0">java.util.Arrays</node>
-            <node x="12805.5" y="13288.0">java.util.Enumeration</node>
-            <node x="14647.630952380952" y="2896.5">java.util.AbstractQueue</node>
-            <node x="1027.5" y="16512.0">java.util.InputMismatchException</node>
-            <node x="15126.438558201055" y="6290.0">java.util.DoubleSummaryStatistics</node>
-            <node x="13557.363558201054" y="772.0">java.util.zip</node>
-            <node x="6762.5" y="16366.0">java.util.regex</node>
-            <node x="5737.0" y="3978.0">java.util.Vector</node>
-            <node x="3939.666666666668" y="497.0">java.util.Map</node>
-            <node x="12536.0" y="15696.0">java.util.TimerTask</node>
-            <node x="17498.380952380954" y="4418.0">java.util.EnumSet</node>
-            <node x="8603.0" y="15872.0">java.util.DuplicateFormatFlagsException</node>
-            <node x="1725.25" y="11232.0">java.util.GregorianCalendar</node>
-            <node x="3754.0" y="4286.0">java.util.EnumMap</node>
-            <node x="10083.0" y="15872.0">java.util.MissingFormatWidthException</node>
-            <node x="3893.5" y="16366.0">java.util.FormattableFlags</node>
-            <node x="17603.61492504409" y="596.0">java.util.Set</node>
-            <node x="9133.5" y="14326.0">java.util.PropertyResourceBundle</node>
-            <node x="1593.5" y="16366.0">java.util.MissingResourceException</node>
-            <node x="17273.880952380954" y="6268.0">java.util.RegularEnumSet</node>
-            <node x="288.0" y="16422.0">java.util.EventListener</node>
-            <node x="6125.5" y="16366.0">java.util.ArraysParallelSortHelpers</node>
-            <node x="299.5" y="16557.0">java.util.EventListenerProxy</node>
-            <node x="2988.5" y="16366.0">java.util.ConcurrentModificationException</node>
-            <node x="171.75" y="683.5">java.util.Dictionary</node>
-            <node x="6582.5" y="16366.0">java.util.logging</node>
-            <node x="7534.0" y="15696.0">java.util.TaskQueue</node>
-            <node x="13115.39178424456" y="6467.0">java.util.stream</node>
-            <node x="10947.0" y="15850.0">java.util.FormatFlagsConversionMismatchException</node>
-            <node x="4490.0" y="13288.0">java.util.Currency</node>
-            <node x="16526.380952380954" y="4275.0">java.util.TreeSet</node>
-            <node x="10260.916666666668" y="4077.0">java.util.ArrayList</node>
-            <node x="2675.5" y="16366.0">java.util.InvalidPropertiesFormatException</node>
-            <node x="10367.525639329806" y="2963.0">java.util.RandomAccess</node>
-            <node x="1218.75" y="6136.0">java.util.LinkedHashMap</node>
-            <node x="6016.0" y="15696.0">java.util.OptionalLong</node>
-            <node x="7201.0" y="4473.0">java.util.SubList</node>
-            <node x="0.0" y="7213.0">java.util.Calendar</node>
-            <node x="8597.0" y="13288.0">java.util.ResourceBundle</node>
-            <node x="12623.0" y="13411.0">java.util.StringTokenizer</node>
-            <node x="10659.0" y="15872.0">java.util.IllegalFormatWidthException</node>
-            <node x="18429.880952380954" y="6400.0">java.util.LinkedHashSet</node>
-            <node x="4154.5" y="16366.0">java.util.LocaleISOData</node>
-            <node x="4991.5" y="16366.0">java.util.EmptyStackException</node>
-            <node x="4445.5" y="16366.0">java.util.TooManyListenersException</node>
-            <node x="248.5" y="2654.0">java.util.Properties</node>
-            <node x="9507.0" y="15872.0">java.util.UnknownFormatFlagsException</node>
-            <node x="5244.5" y="16366.0">java.util.FormatterClosedException</node>
-            <node x="1946.5" y="16366.0">java.util.IllformedLocaleException</node>
-            <node x="495.5" y="16366.0">java.util.PropertyPermissionCollection</node>
-            <node x="8141.916666666668" y="3670.0">java.util.TreeMap</node>
-            <node x="6392.5" y="16366.0">java.util.Comparators</node>
-            <node x="15384.380952380952" y="4143.0">java.util.ArrayDeque</node>
-            <node x="6929.5" y="16366.0">java.util.spi</node>
-            <node x="5827.5" y="16366.0">java.util.Observer</node>
-            <node x="16463.880952380954" y="1674.0">java.util.SortedSet</node>
-            <node x="1465.0" y="15696.0">java.util.ComparableTimSort</node>
-            <node x="10815.0" y="8877.0">java.util.ListIterator</node>
-            <node x="3568.5" y="16366.0">java.util.Tripwire</node>
-            <node x="11665.0" y="13288.0">java.util.Spliterators</node>
-            <node x="14316.380952380952" y="4198.0">java.util.PriorityQueue</node>
-            <node x="7307.0" y="13288.0">java.util.Date</node>
-            <node x="7430.0" y="2742.0">java.util.AbstractList</node>
-            <node x="7772.0" y="7380.0">java.util.Scanner</node>
-            <node x="3863.0" y="15696.0">java.util.Timer</node>
-            <node x="12216.339285714286" y="2445.0">java.util.Random</node>
-            <node x="104.25" y="16591.0">java.util.prefs</node>
-            <node x="0.0" y="16366.0">java.util.EventObject</node>
-            <node x="10743.0" y="13288.0">java.util.Formatter</node>
-            <node x="3351.0" y="15696.0">java.util.PropertyPermission</node>
-            <node x="9795.0" y="15872.0">java.util.IllegalFormatPrecisionException</node>
-            <node x="14578.880952380952" y="1552.0">java.util.AbstractCollection</node>
-            <node x="3301.5" y="16366.0">java.util.ArrayPrefixHelpers</node>
-            <node x="0.0" y="13288.0">java.util.Locale</node>
-            <node x="9685.0" y="13288.0">java.util.SplittableRandom</node>
-            <node x="9537.0" y="15696.0">java.util.IllegalFormatException</node>
-            <node x="2714.0" y="4220.0">java.util.IdentityHashMap</node>
-            <node x="12976.278689006465" y="4683.0">java.util.concurrent</node>
-            <node x="11529.0" y="7213.0">java.util.TimeZone</node>
-            <node x="14055.568452380952" y="0.0">java.util.Collection</node>
-            <node x="16470.380952380954" y="2798.0">java.util.NavigableSet</node>
-            <node x="4412.0" y="15696.0">java.util.ServiceLoader</node>
-            <node x="2157.0" y="15696.0">java.util.UUID</node>
-            <node x="11582.339285714286" y="2732.0">java.util.NavigableMap</node>
-            <node x="7776.916666666668" y="4594.5">java.util.AbstractSequentialList</node>
-            <node x="11715.0" y="15696.0">java.util.Objects</node>
-            <node x="10697.900117577894" y="1443.0">java.util.List</node>
-            <node x="1300.5" y="16366.0">java.util.Base64</node>
-            <node x="2770.0" y="15696.0">java.util.Optional</node>
-            <node x="14156.380952380952" y="4683.0">java.util.function</node>
-            <node x="13656.113558201054" y="1685.0">java.util.Queue</node>
-            <node x="11186.0" y="8262.0">java.util.SimpleTimeZone</node>
-            <node x="7056.0" y="15696.0">java.util.Spliterator</node>
-            <node x="11666.339285714286" y="1652.0">java.util.SortedMap</node>
-            <node x="5497.5" y="16366.0">java.util.Formattable</node>
-            <node x="2279.5" y="16366.0">java.util.TimerThread</node>
-            <node x="5475.0" y="15696.0">java.util.OptionalDouble</node>
-            <node x="17704.380952380954" y="2918.5">java.util.AbstractSet</node>
-            <node x="1246.0" y="3978.0">java.util.HashMap</node>
-            <node x="13479.839285714286" y="2666.0">java.util.Deque</node>
-            <node x="6543.0" y="15696.0">java.util.OptionalInt</node>
-            <node x="8315.0" y="15872.0">java.util.MissingFormatArgumentException</node>
-            <node x="6305.0" y="6389.0">java.util.Stack</node>
-            <node x="0.0" y="15696.0">java.util.DualPivotQuicksort</node>
-            <node x="18442.130952380954" y="4473.0">java.util.HashSet</node>
-            <node x="4718.5" y="16366.0">java.util.ServiceConfigurationError</node>
-            <node x="10802.124390064662" y="5795.0">java.util.LinkedList</node>
-            <node x="1027.5" y="16366.0">java.util.NoSuchElementException</node>
-            <node x="14036.380952380952" y="6312.0">java.util.LongSummaryStatistics</node>
-            <node x="0.0" y="1156.0">java.util.Hashtable</node>
-            <node x="4644.0" y="4220.0">java.util.WeakHashMap</node>
-            <node x="9170.5" y="7213.0">java.util.Iterator</node>
-            <node x="8595.624390064662" y="6444.5">java.util.RandomAccessSubList</node>
-            <node x="8891.0" y="15872.0">java.util.IllegalFormatFlagsException</node>
-            <node x="289.25" y="11518.0">java.util.JapaneseImperialCalendar</node>
-            <node x="10371.0" y="15872.0">java.util.UnknownFormatConversionException</node>
-            <node x="9179.0" y="15850.0">java.util.IllegalFormatConversionException</node>
-            <node x="8761.5" y="14315.0">java.util.ListResourceBundle</node>
-            <node x="753.0" y="15696.0">java.util.TimSort</node>
-            <node x="7497.0" y="8965.0">java.util.PrimitiveIterator</node>
-            <node x="4166.274272486769" y="2742.0">java.util.AbstractMap</node>
-            <node x="8026.999999999999" y="15872.0">java.util.IllegalFormatCodePointException</node>
-            <node x="13533.113558201054" y="1751.0">java.util.jar</node>
-            <node x="11300.0" y="15696.0">java.util.StringJoiner</node>
-            <node x="14746.438558201055" y="6323.0">java.util.IntSummaryStatistics</node>
-            <node x="17821.880952380954" y="6235.0">java.util.JumboEnumSet</node>
-            <node x="5903.0" y="13288.0">java.util.BitSet</node>
-            <node x="12112.0" y="15696.0">java.util.Observable</node>
-            <node x="4931.0" y="15696.0">java.util.Comparator</node>
-            <node x="2332.0" y="13288.0">java.util.Collections</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.HashMap" target="java.util.Map">
-              <point x="-362.0" y="-719.5" />
-              <point x="1608.0" y="1126.0" />
-              <point x="4102.444444444445" y="1126.0" />
-              <point x="-130.22222222222263" y="289.5" />
-            </edge>
-            <edge source="java.util.jar" target="java.util.Map">
-              <point x="-25.75" y="-14.5" />
-              <point x="13558.863558201054" y="1096.0" />
-              <point x="4493.111111111112" y="1096.0" />
-              <point x="260.44444444444434" y="289.5" />
-            </edge>
-            <edge source="java.util.RandomAccessSubList" target="java.util.SubList">
-              <point x="-94.5" y="-37.0" />
-              <point x="8690.124390064662" y="5775.0" />
-              <point x="7462.5" y="5775.0" />
-              <point x="0.0" y="224.5" />
-            </edge>
-            <edge source="java.util.SortedSet" target="java.util.Set">
-              <point x="0.0" y="-91.5" />
-              <point x="16666.380952380954" y="1136.0" />
-              <point x="17654.36492504409" y="1136.0" />
-              <point x="-152.25" y="190.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.Deque">
-              <point x="38.75" y="-14.5" />
-              <point x="13092.528689006465" y="3610.0" />
-              <point x="13730.714285714286" y="3610.0" />
-              <point x="-83.625" y="311.5" />
-            </edge>
-            <edge source="java.util.Set" target="java.util.Collection">
-              <point x="0.0" y="-190.5" />
-              <point x="17806.61492504409" y="467.0" />
-              <point x="14463.318452380952" y="467.0" />
-              <point x="174.75" y="223.5" />
-            </edge>
-            <edge source="java.util.IllegalFormatWidthException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="10793.0" y="15800.0" />
-              <point x="9716.636363636364" y="15800.0" />
-              <point x="75.63636363636397" y="37.0" />
-            </edge>
-            <edge source="java.util.JumboEnumSet" target="java.util.EnumSet">
-              <point x="0.0" y="-246.5" />
-              <point x="18115.880952380954" y="5775.0" />
-              <point x="17991.130952380954" y="5775.0" />
-              <point x="164.25" y="279.5" />
-            </edge>
-            <edge source="java.util.DoubleSummaryStatistics" target="java.util.function">
-              <point x="0.0" y="-191.5" />
-              <point x="15336.438558201055" y="5765.0" />
-              <point x="14282.380952380952" y="5765.0" />
-              <point x="56.0" y="14.5" />
-            </edge>
-            <edge source="java.util.HashMap" target="java.util.AbstractMap">
-              <point x="362.0" y="-719.5" />
-              <point x="2332.0" y="3630.0" />
-              <point x="4209.940939153436" y="3630.0" />
-              <point x="-218.33333333333303" y="235.5" />
-            </edge>
-            <edge source="java.util.PrimitiveIterator" target="java.util.Iterator">
-              <point x="0.0" y="-25.5" />
-              <point x="7624.5" y="7355.0" />
-              <point x="9208.166666666666" y="7355.0" />
-              <point x="-75.33333333333394" y="58.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="129.75" y="-235.5" />
-              <point x="7819.25" y="2415.0" />
-              <point x="14631.180952380952" y="2415.0" />
-              <point x="-209.20000000000073" y="213.5" />
-            </edge>
-            <edge source="java.util.Deque" target="java.util.Queue">
-              <point x="0.0" y="-311.5" />
-              <point x="13814.339285714286" y="2405.0" />
-              <point x="13808.613558201054" y="2405.0" />
-              <point x="30.5" y="80.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.Set">
-              <point x="49.0" y="-59.0" />
-              <point x="17851.380952380954" y="1136.0" />
-              <point x="17755.86492504409" y="1136.0" />
-              <point x="-50.75" y="190.5" />
-            </edge>
-            <edge source="java.util.TreeMap" target="java.util.NavigableMap">
-              <point x="524.5" y="-1027.5" />
-              <point x="9715.416666666668" y="3650.0" />
-              <point x="11735.839285714286" y="3650.0" />
-              <point x="-153.5" y="245.5" />
-            </edge>
-            <edge source="java.util.RegularEnumSet" target="java.util.EnumSet">
-              <point x="0.0" y="-213.5" />
-              <point x="17537.880952380954" y="5775.0" />
-              <point x="17662.630952380954" y="5775.0" />
-              <point x="-164.25" y="279.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.List">
-              <point x="422.66666666666606" y="-620.5" />
-              <point x="11317.583333333334" y="3640.0" />
-              <point x="11139.100117577893" y="3640.0" />
-              <point x="11139.100117577893" y="2405.0" />
-              <point x="11020.900117577894" y="2405.0" />
-              <point x="0.0" y="322.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
-              <point x="-432.66666666666606" y="-686.5" />
-              <point x="11018.457723397996" y="5765.0" />
-              <point x="7949.416666666668" y="5765.0" />
-              <point x="0.0" y="103.0" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.AbstractList">
-              <point x="-422.66666666666606" y="-620.5" />
-              <point x="10472.250000000002" y="3590.0" />
-              <point x="7884.125" y="3590.0" />
-              <point x="194.625" y="235.5" />
-            </edge>
-            <edge source="java.util.MissingFormatWidthException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="10217.0" y="15820.0" />
-              <point x="9678.818181818182" y="15820.0" />
-              <point x="37.81818181818198" y="37.0" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.AbstractCollection">
-              <point x="16.607142857143117" y="-14.5" />
-              <point x="13070.385831863608" y="3590.0" />
-              <point x="13469.339285714286" y="3590.0" />
-              <point x="13469.339285714286" y="2425.0" />
-              <point x="14735.780952380952" y="2425.0" />
-              <point x="-104.60000000000036" y="213.5" />
-            </edge>
-            <edge source="java.util.MissingFormatArgumentException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="8449.0" y="15800.0" />
-              <point x="9565.363636363636" y="15800.0" />
-              <point x="-75.63636363636397" y="37.0" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.Random">
-              <point x="-27.67857142857065" y="-14.5" />
-              <point x="13026.100117577895" y="3530.0" />
-              <point x="12770.339285714286" y="3530.0" />
-              <point x="0.0" y="532.5" />
-            </edge>
-            <edge source="java.util.IllegalFormatPrecisionException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="9929.0" y="15830.0" />
-              <point x="9659.90909090909" y="15830.0" />
-              <point x="18.909090909090082" y="37.0" />
-            </edge>
-            <edge source="java.util.SortedMap" target="java.util.Map">
-              <point x="0.0" y="-113.5" />
-              <point x="11889.339285714286" y="1116.0" />
-              <point x="4362.8888888888905" y="1116.0" />
-              <point x="130.22222222222263" y="289.5" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-80.5" />
-              <point x="13778.113558201054" y="477.0" />
-              <point x="14230.318452380952" y="477.0" />
-              <point x="-58.25" y="223.5" />
-            </edge>
-            <edge source="java.util.ListIterator" target="java.util.Iterator">
-              <point x="0.0" y="-113.5" />
-              <point x="10978.0" y="7355.0" />
-              <point x="9358.833333333334" y="7355.0" />
-              <point x="75.33333333333394" y="58.5" />
-            </edge>
-            <edge source="java.util.SubList" target="java.util.AbstractList">
-              <point x="0.0" y="-224.5" />
-              <point x="7462.5" y="3620.0" />
-              <point x="7624.625" y="3620.0" />
-              <point x="-64.875" y="235.5" />
-            </edge>
-            <edge source="java.util.IllegalFormatFlagsException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="9025.0" y="15820.0" />
-              <point x="9603.181818181818" y="15820.0" />
-              <point x="-37.81818181818198" y="37.0" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-322.5" />
-              <point x="11020.900117577894" y="1136.0" />
-              <point x="11317.583333333334" y="1136.0" />
-              <point x="11317.583333333334" y="467.0" />
-              <point x="14113.818452380952" y="467.0" />
-              <point x="-174.75" y="223.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="-129.75" y="-235.5" />
-              <point x="7559.75" y="2405.0" />
-              <point x="10891.700117577893" y="2405.0" />
-              <point x="-129.20000000000073" y="322.5" />
-            </edge>
-            <edge source="java.util.EnumMap" target="java.util.AbstractMap">
-              <point x="0.0" y="-411.5" />
-              <point x="4189.0" y="3650.0" />
-              <point x="4384.607605820102" y="3650.0" />
-              <point x="-43.66666666666697" y="235.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.AbstractQueue">
-              <point x="49.82142857142935" y="-14.5" />
-              <point x="13103.600117577895" y="3620.0" />
-              <point x="14711.880952380952" y="3620.0" />
-              <point x="-64.25" y="81.0" />
-            </edge>
-            <edge source="java.util.IllegalFormatCodePointException" target="java.util.IllegalFormatException">
-              <point x="9.094947017729282E-13" y="-70.5" />
-              <point x="8161.0" y="15790.0" />
-              <point x="9546.454545454546" y="15790.0" />
-              <point x="-94.54545454545405" y="37.0" />
-            </edge>
-            <edge source="java.util.prefs" target="java.util.EventListener">
-              <point x="29.75" y="-14.5" />
-              <point x="193.5" y="16532.0" />
-              <point x="317.0" y="16532.0" />
-              <point x="-29.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ArrayDeque" target="java.util.AbstractCollection">
-              <point x="280.5000000000018" y="-554.5" />
-              <point x="16225.880952380954" y="2425.0" />
-              <point x="14944.980952380953" y="2425.0" />
-              <point x="104.60000000000036" y="213.5" />
-            </edge>
-            <edge source="java.util.LongSummaryStatistics" target="java.util.function">
-              <point x="0.0" y="-169.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.List">
-              <point x="-481.33333333333303" y="-719.5" />
-              <point x="5977.666666666668" y="2395.0" />
-              <point x="10762.500117577894" y="2395.0" />
-              <point x="-258.39999999999964" y="322.5" />
-            </edge>
-            <edge source="java.util.RandomAccessSubList" target="java.util.RandomAccess">
-              <point x="94.5" y="-37.0" />
-              <point x="8879.124390064662" y="5775.0" />
-              <point x="10250.416666666668" y="5775.0" />
-              <point x="10250.416666666668" y="3640.0" />
-              <point x="10415.150639329806" y="3640.0" />
-              <point x="-15.875" y="14.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.Deque">
-              <point x="432.66666666666606" y="-686.5" />
-              <point x="11883.791056731328" y="5755.0" />
-              <point x="13897.964285714286" y="5755.0" />
-              <point x="83.625" y="311.5" />
-            </edge>
-            <edge source="java.util.stream" target="java.util.function">
-              <point x="0.0" y="-14.5" />
-              <point x="13180.39178424456" y="5765.0" />
-              <point x="14170.380952380952" y="5765.0" />
-              <point x="-56.0" y="14.5" />
-            </edge>
-            <edge source="java.util.stream" target="java.util.concurrent">
-              <point x="-43.33333333333394" y="-14.5" />
-              <point x="13137.058450911227" y="5745.0" />
-              <point x="13053.778689006465" y="5745.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.TreeMap" target="java.util.AbstractMap">
-              <point x="-524.5" y="-1027.5" />
-              <point x="8666.416666666668" y="3600.0" />
-              <point x="4559.274272486769" y="3600.0" />
-              <point x="131.0" y="235.5" />
-            </edge>
-            <edge source="java.util.DuplicateFormatFlagsException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="8737.0" y="15810.0" />
-              <point x="9584.272727272728" y="15810.0" />
-              <point x="-56.727272727272066" y="37.0" />
-            </edge>
-            <edge source="java.util.FormatFlagsConversionMismatchException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-92.5" />
-              <point x="11101.0" y="15790.0" />
-              <point x="9735.545454545454" y="15790.0" />
-              <point x="94.54545454545405" y="37.0" />
-            </edge>
-            <edge source="java.util.PropertyResourceBundle" target="java.util.ResourceBundle">
-              <point x="0.0" y="-81.5" />
-              <point x="9299.5" y="14290.0" />
-              <point x="9379.25" y="14290.0" />
-              <point x="260.75" y="488.5" />
-            </edge>
-            <edge source="java.util.IntSummaryStatistics" target="java.util.function">
-              <point x="0.0" y="-158.5" />
-              <point x="14926.438558201055" y="5775.0" />
-              <point x="14254.380952380952" y="5775.0" />
-              <point x="28.0" y="14.5" />
-            </edge>
-            <edge source="java.util.AbstractMap" target="java.util.Map">
-              <point x="0.0" y="-235.5" />
-              <point x="4428.274272486769" y="1136.0" />
-              <point x="4232.666666666668" y="1136.0" />
-              <point x="0.0" y="289.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.NavigableSet">
-              <point x="-238.0" y="-422.5" />
-              <point x="98.0" y="179.5" />
-            </edge>
-            <edge source="java.util.Hashtable" target="java.util.Dictionary">
-              <point x="-306.25" y="-609.5" />
-              <point x="0.0" y="103.0" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.AbstractMap">
-              <point x="-71.96428571428623" y="-14.5" />
-              <point x="12981.81440329218" y="3570.0" />
-              <point x="4646.607605820102" y="3570.0" />
-              <point x="218.33333333333303" y="235.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.RandomAccess">
-              <point x="-60.89285714285688" y="-14.5" />
-              <point x="12992.885831863608" y="3560.0" />
-              <point x="10478.650639329806" y="3560.0" />
-              <point x="47.625" y="14.5" />
-            </edge>
-            <edge source="java.util.StringTokenizer" target="java.util.Enumeration">
-              <point x="0.0" y="-268.5" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="java.util.UnknownFormatConversionException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="10505.0" y="15810.0" />
-              <point x="9697.727272727272" y="15810.0" />
-              <point x="56.727272727272066" y="37.0" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.AbstractCollection">
-              <point x="64.25" y="-81.0" />
-              <point x="0.0" y="213.5" />
-            </edge>
-            <edge source="java.util.Properties" target="java.util.Hashtable">
-              <point x="0.0" y="-323.5" />
-              <point x="0.0" y="609.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.AbstractSet">
-              <point x="71.96428571428623" y="-14.5" />
-              <point x="13125.742974720752" y="3640.0" />
-              <point x="17728.880952380954" y="3640.0" />
-              <point x="-73.5" y="59.0" />
-            </edge>
-            <edge source="java.util.LinkedHashSet" target="java.util.Set">
-              <point x="-72.0" y="-81.5" />
-              <point x="18501.880952380954" y="5775.0" />
-              <point x="18431.630952380954" y="5775.0" />
-              <point x="18431.630952380954" y="1136.0" />
-              <point x="17857.36492504409" y="1136.0" />
-              <point x="50.75" y="190.5" />
-            </edge>
-            <edge source="java.util.WeakHashMap" target="java.util.Map">
-              <point x="268.25" y="-477.5" />
-              <point x="5448.75" y="3650.0" />
-              <point x="5644.357605820102" y="3650.0" />
-              <point x="5644.357605820102" y="1126.0" />
-              <point x="4297.777777777779" y="1126.0" />
-              <point x="65.11111111111131" y="289.5" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.Queue">
-              <point x="-64.25" y="-81.0" />
-              <point x="14711.880952380952" y="2405.0" />
-              <point x="13869.613558201054" y="2405.0" />
-              <point x="91.5" y="80.5" />
-            </edge>
-            <edge source="java.util.NavigableMap" target="java.util.SortedMap">
-              <point x="0.0" y="-245.5" />
-              <point x="0.0" y="113.5" />
-            </edge>
-            <edge source="java.util.EnumSet" target="java.util.AbstractSet">
-              <point x="0.0" y="-279.5" />
-              <point x="24.5" y="59.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="14840.380952380952" y="477.0" />
-              <point x="14346.818452380952" y="477.0" />
-              <point x="58.25" y="223.5" />
-            </edge>
-            <edge source="java.util.JapaneseImperialCalendar" target="java.util.Calendar">
-              <point x="0.0" y="-719.5" />
-              <point x="997.25" y="11207.0" />
-              <point x="914.25" y="11207.0" />
-              <point x="-914.25" y="1984.5" />
-            </edge>
-            <edge source="java.util.Scanner" target="java.util.Iterator">
-              <point x="0.0" y="-1610.5" />
-              <point x="0.0" y="58.5" />
-            </edge>
-            <edge source="java.util.ArrayDeque" target="java.util.Deque">
-              <point x="-280.4999999999982" y="-554.5" />
-              <point x="15664.880952380954" y="3610.0" />
-              <point x="14065.214285714286" y="3610.0" />
-              <point x="250.875" y="311.5" />
-            </edge>
-            <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
-              <point x="0.0" y="-103.0" />
-              <point x="7949.416666666668" y="3620.0" />
-              <point x="7754.375" y="3620.0" />
-              <point x="64.875" y="235.5" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.List">
-              <point x="0.0" y="-686.5" />
-              <point x="11451.124390064662" y="5775.0" />
-              <point x="11547.25" y="5775.0" />
-              <point x="11547.25" y="2405.0" />
-              <point x="11150.100117577895" y="2405.0" />
-              <point x="129.20000000000073" y="322.5" />
-            </edge>
-            <edge source="java.util.IdentityHashMap" target="java.util.AbstractMap">
-              <point x="255.0" y="-477.5" />
-              <point x="3479.0" y="3640.0" />
-              <point x="4297.274272486769" y="3640.0" />
-              <point x="-131.0" y="235.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.AbstractSet">
-              <point x="238.0" y="-422.5" />
-              <point x="17240.380952380954" y="3650.0" />
-              <point x="17777.880952380954" y="3650.0" />
-              <point x="-24.5" y="59.0" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.RandomAccess">
-              <point x="481.33333333333303" y="-719.5" />
-              <point x="6940.333333333333" y="3630.0" />
-              <point x="10383.400639329806" y="3630.0" />
-              <point x="-47.625" y="14.5" />
-            </edge>
-            <edge source="java.util.EventListenerProxy" target="java.util.EventListener">
-              <point x="0.0" y="-48.5" />
-              <point x="29.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ListResourceBundle" target="java.util.ResourceBundle">
-              <point x="0.0" y="-92.5" />
-              <point x="8937.5" y="14290.0" />
-              <point x="8857.75" y="14290.0" />
-              <point x="-260.75" y="488.5" />
-            </edge>
-            <edge source="java.util.LinkedHashSet" target="java.util.HashSet">
-              <point x="72.0" y="-81.5" />
-              <point x="18645.880952380954" y="5775.0" />
-              <point x="18716.130952380954" y="5775.0" />
-              <point x="0.0" y="224.5" />
-            </edge>
-            <edge source="java.util.InputMismatchException" target="java.util.NoSuchElementException">
-              <point x="0.0" y="-48.0" />
-              <point x="0.0" y="48.0" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.List">
-              <point x="-49.82142857142935" y="-14.5" />
-              <point x="13003.957260435036" y="3550.0" />
-              <point x="11571.839285714286" y="3550.0" />
-              <point x="11571.839285714286" y="2395.0" />
-              <point x="11279.300117577894" y="2395.0" />
-              <point x="258.39999999999964" y="322.5" />
-            </edge>
-            <edge source="java.util.HashSet" target="java.util.Set">
-              <point x="137.0" y="-224.5" />
-              <point x="18853.130952380954" y="1126.0" />
-              <point x="17958.86492504409" y="1126.0" />
-              <point x="152.25" y="190.5" />
-            </edge>
-            <edge source="java.util.PriorityQueue" target="java.util.AbstractQueue">
-              <point x="0.0" y="-499.5" />
-              <point x="64.25" y="81.0" />
-            </edge>
-            <edge source="java.util.IdentityHashMap" target="java.util.Map">
-              <point x="-255.0" y="-477.5" />
-              <point x="2969.0" y="1136.0" />
-              <point x="4167.555555555557" y="1136.0" />
-              <point x="-65.11111111111131" y="289.5" />
-            </edge>
-            <edge source="java.util.NavigableSet" target="java.util.SortedSet">
-              <point x="0.0" y="-179.5" />
-              <point x="0.0" y="91.5" />
-            </edge>
-            <edge source="java.util.LinkedHashMap" target="java.util.Map">
-              <point x="-192.0" y="-345.5" />
-              <point x="1410.75" y="5775.0" />
-              <point x="1235.5" y="5775.0" />
-              <point x="1235.5" y="1116.0" />
-              <point x="4037.333333333334" y="1116.0" />
-              <point x="-195.33333333333394" y="289.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
-              <point x="0.0" y="-620.5" />
-              <point x="10894.916666666668" y="3580.0" />
-              <point x="10446.900639329806" y="3580.0" />
-              <point x="15.875" y="14.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.AbstractCollection">
-              <point x="-49.0" y="-59.0" />
-              <point x="17753.380952380954" y="2415.0" />
-              <point x="15049.580952380953" y="2415.0" />
-              <point x="209.20000000000073" y="213.5" />
-            </edge>
-            <edge source="java.util.jar" target="java.util.zip">
-              <point x="25.75" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.HashSet" target="java.util.AbstractSet">
-              <point x="-137.0" y="-224.5" />
-              <point x="18579.130952380954" y="3650.0" />
-              <point x="17875.880952380954" y="3650.0" />
-              <point x="73.5" y="59.0" />
-            </edge>
-            <edge source="java.util.WeakHashMap" target="java.util.AbstractMap">
-              <point x="-268.25" y="-477.5" />
-              <point x="4912.25" y="3650.0" />
-              <point x="4471.940939153436" y="3650.0" />
-              <point x="43.66666666666697" y="235.5" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.AbstractList">
-              <point x="0.0" y="-719.5" />
-              <point x="6459.0" y="3610.0" />
-              <point x="7494.875" y="3610.0" />
-              <point x="-194.625" y="235.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.NavigableMap">
-              <point x="-38.75" y="-14.5" />
-              <point x="13015.028689006465" y="3540.0" />
-              <point x="12042.839285714286" y="3540.0" />
-              <point x="153.5" y="245.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.Map">
-              <point x="-16.607142857143117" y="-14.5" />
-              <point x="13037.171546149322" y="3560.0" />
-              <point x="13334.839285714286" y="3560.0" />
-              <point x="13334.839285714286" y="1106.0" />
-              <point x="4428.000000000001" y="1106.0" />
-              <point x="195.33333333333303" y="289.5" />
-            </edge>
-            <edge source="java.util.Hashtable" target="java.util.Map">
-              <point x="306.25" y="-609.5" />
-              <point x="918.75" y="1106.0" />
-              <point x="3972.2222222222235" y="1106.0" />
-              <point x="-260.44444444444434" y="289.5" />
-            </edge>
-            <edge source="java.util.SimpleTimeZone" target="java.util.TimeZone">
-              <point x="0.0" y="-862.5" />
-              <point x="0.0" y="499.5" />
-            </edge>
-            <edge source="java.util.Stack" target="java.util.Vector">
-              <point x="0.0" y="-92.5" />
-              <point x="0.0" y="719.5" />
-            </edge>
-            <edge source="java.util.GregorianCalendar" target="java.util.Calendar">
-              <point x="0.0" y="-1005.5" />
-              <point x="2659.75" y="11207.0" />
-              <point x="2742.75" y="11207.0" />
-              <point x="914.25" y="1984.5" />
-            </edge>
-            <edge source="java.util.prefs" target="java.util.EventObject">
-              <point x="-29.75" y="-14.5" />
-              <point x="0.0" y="70.5" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.NavigableSet">
-              <point x="60.89285714285688" y="-14.5" />
-              <point x="13114.671546149322" y="3630.0" />
-              <point x="16568.380952380954" y="3630.0" />
-              <point x="-98.0" y="179.5" />
-            </edge>
-            <edge source="java.util.UnknownFormatFlagsException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-70.5" />
-              <point x="0.0" y="37.0" />
-            </edge>
-            <edge source="java.util.LinkedHashMap" target="java.util.HashMap">
-              <point x="192.0" y="-345.5" />
-              <point x="1794.75" y="5775.0" />
-              <point x="1970.0" y="5775.0" />
-              <point x="0.0" y="719.5" />
-            </edge>
-            <edge source="java.util.IllegalFormatConversionException" target="java.util.IllegalFormatException">
-              <point x="0.0" y="-92.5" />
-              <point x="9333.0" y="15830.0" />
-              <point x="9622.09090909091" y="15830.0" />
-              <point x="-18.909090909090082" y="37.0" />
-            </edge>
-            <edge source="java.util.concurrent" target="java.util.Queue">
-              <point x="-5.535714285713766" y="-14.5" />
-              <point x="13048.242974720752" y="3570.0" />
-              <point x="13345.839285714286" y="3570.0" />
-              <point x="13345.839285714286" y="2395.0" />
-              <point x="13686.613558201054" y="2395.0" />
-              <point x="-91.5" y="80.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.2" x="4290.0" y="1425.0" />
-          <SelectedNodes>
-            <node>java.util.Dictionary</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.LinkedList">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.LinkedList</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.util.AbstractCollection</node>
-            <node x="" y="">java.util.List</node>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.AbstractList</node>
-            <node x="" y="">java.util.Queue</node>
-            <node x="" y="">java.util.LinkedList</node>
-            <node x="" y="">java.util.Deque</node>
-            <node x="" y="">java.util.AbstractSequentialList</node>
-            <node x="" y="">java.lang.Iterable</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="445.0" y="1994.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.ArrayList">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.ArrayList</OriginalElement>
-          <nodes>
-            <node x="1161.0" y="1558.0">java.util.RandomAccess</node>
-            <node x="1308.0" y="1558.0">java.lang.Cloneable</node>
-            <node x="0.0" y="751.0">java.util.AbstractCollection</node>
-            <node x="543.0" y="642.0">java.util.List</node>
-            <node x="328.2175" y="145.0">java.util.Collection</node>
-            <node x="131.75" y="1337.0">java.util.AbstractList</node>
-            <node x="449.2175" y="0.0">java.lang.Iterable</node>
-            <node x="1038.0" y="1558.0">java.io.Serializable</node>
-            <node x="357.4424999999999" y="1858.0">java.util.ArrayList</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
-              <point x="507.20000000000016" y="-620.5" />
-              <point x="1498.6425" y="1838.0" />
-              <point x="1355.0" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
-              <point x="253.60000000000002" y="-620.5" />
-              <point x="1245.0425" y="1838.0" />
-              <point x="1224.5" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.io.Serializable">
-              <point x="1.1368683772161603E-13" y="-620.5" />
-              <point x="991.4425" y="1838.0" />
-              <point x="1089.5" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-322.5" />
-              <point x="866.0" y="617.0" />
-              <point x="677.7175" y="617.0" />
-              <point x="116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="129.75" y="-235.5" />
-              <point x="521.0" y="1312.0" />
-              <point x="704.5" y="1312.0" />
-              <point x="-161.5" y="322.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.List">
-              <point x="-253.5999999999999" y="-620.5" />
-              <point x="737.8425" y="1828.0" />
-              <point x="1027.5" y="1828.0" />
-              <point x="161.5" y="322.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-129.75" y="-235.5" />
-              <point x="0.0" y="213.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.AbstractList">
-              <point x="-507.19999999999993" y="-620.5" />
-              <point x="484.24249999999995" y="1838.0" />
-              <point x="391.25" y="1838.0" />
-              <point x="0.0" y="235.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="261.5" y="617.0" />
-              <point x="444.7175" y="617.0" />
-              <point x="-116.5" y="223.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="392.0" y="799.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.HashSet">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.HashSet</OriginalElement>
-          <nodes>
-            <node x="533.9722222222222" y="1287.0">java.util.HashSet</node>
-            <node x="981.0" y="1163.5">java.lang.Cloneable</node>
-            <node x="0.0" y="642.0">java.util.AbstractCollection</node>
-            <node x="291.9444444444444" y="145.0">java.util.Collection</node>
-            <node x="212.5" y="1119.0">java.util.AbstractSet</node>
-            <node x="543.0" y="665.0">java.util.Set</node>
-            <node x="412.9444444444444" y="0.0">java.lang.Iterable</node>
-            <node x="858.0" y="1163.5">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.HashSet" target="java.util.AbstractSet">
-              <point x="-205.5" y="-224.5" />
-              <point x="602.4722222222222" y="1262.0" />
-              <point x="310.5" y="1262.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="java.util.HashSet" target="java.util.Set">
-              <point x="-68.5" y="-224.5" />
-              <point x="739.4722222222222" y="1262.0" />
-              <point x="847.5" y="1262.0" />
-              <point x="101.49999999999999" y="190.5" />
-            </edge>
-            <edge source="java.util.Set" target="java.util.Collection">
-              <point x="0.0" y="-190.5" />
-              <point x="746.0" y="617.0" />
-              <point x="641.4444444444443" y="617.0" />
-              <point x="116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.Set">
-              <point x="49.0" y="-59.0" />
-              <point x="359.5" y="1094.0" />
-              <point x="644.5" y="1094.0" />
-              <point x="-101.5" y="190.5" />
-            </edge>
-            <edge source="java.util.HashSet" target="java.lang.Cloneable">
-              <point x="205.5" y="-224.5" />
-              <point x="1013.4722222222222" y="1262.0" />
-              <point x="1028.0" y="1262.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="261.5" y="617.0" />
-              <point x="408.4444444444444" y="617.0" />
-              <point x="-116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.AbstractCollection">
-              <point x="-49.0" y="-59.0" />
-              <point x="0.0" y="213.5" />
-            </edge>
-            <edge source="java.util.HashSet" target="java.io.Serializable">
-              <point x="68.5" y="-224.5" />
-              <point x="876.4722222222222" y="1262.0" />
-              <point x="909.5" y="1262.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.39863325740318906" x="-515.0" y="592.0" />
-          <SelectedNodes>
-            <node>java.util.HashSet</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.TreeSet">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.TreeSet</OriginalElement>
-          <nodes>
-            <node x="750.0" y="1517.0">java.lang.Cloneable</node>
-            <node x="527.0" y="642.0">java.util.AbstractCollection</node>
-            <node x="0.0" y="1119.0">java.util.SortedSet</node>
-            <node x="321.40909090909093" y="145.0">java.util.Collection</node>
-            <node x="641.5" y="1151.5">java.util.AbstractSet</node>
-            <node x="101.0" y="665.0">java.util.Set</node>
-            <node x="6.5" y="1352.0">java.util.NavigableSet</node>
-            <node x="442.40909090909093" y="0.0">java.lang.Iterable</node>
-            <node x="150.90909090909093" y="1761.0">java.util.TreeSet</node>
-            <node x="864.0" y="1517.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.TreeSet" target="java.lang.Cloneable">
-              <point x="119.0" y="-422.5" />
-              <point x="745.909090909091" y="1736.0" />
-              <point x="797.0" y="1736.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.Set" target="java.util.Collection">
-              <point x="0.0" y="-190.5" />
-              <point x="304.0" y="617.0" />
-              <point x="437.90909090909093" y="617.0" />
-              <point x="-116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.io.Serializable">
-              <point x="357.0" y="-422.5" />
-              <point x="983.909090909091" y="1736.0" />
-              <point x="915.5" y="1736.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.NavigableSet">
-              <point x="-357.0" y="-422.5" />
-              <point x="269.90909090909093" y="1736.0" />
-              <point x="202.5" y="1736.0" />
-              <point x="0.0" y="179.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.Set">
-              <point x="-49.0" y="-59.0" />
-              <point x="690.5" y="1094.0" />
-              <point x="405.5" y="1094.0" />
-              <point x="101.5" y="190.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.AbstractSet">
-              <point x="-119.0" y="-422.5" />
-              <point x="507.90909090909093" y="1736.0" />
-              <point x="739.5" y="1736.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="java.util.SortedSet" target="java.util.Set">
-              <point x="0.0" y="-91.5" />
-              <point x="-101.5" y="190.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="788.5" y="617.0" />
-              <point x="670.909090909091" y="617.0" />
-              <point x="116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.NavigableSet" target="java.util.SortedSet">
-              <point x="0.0" y="-179.5" />
-              <point x="0.0" y="91.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.AbstractCollection">
-              <point x="49.0" y="-59.0" />
-              <point x="0.0" y="213.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-49.0" y="186.0" />
-          <SelectedNodes>
-            <node>java.util.TreeSet</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/TreeSet.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.TreeSet</OriginalElement>
-          <nodes>
-            <node x="750.0" y="1517.0">java.lang.Cloneable</node>
-            <node x="527.0" y="642.0">java.util.AbstractCollection</node>
-            <node x="0.0" y="1119.0">java.util.SortedSet</node>
-            <node x="321.40909090909093" y="145.0">java.util.Collection</node>
-            <node x="641.5" y="1151.5">java.util.AbstractSet</node>
-            <node x="101.0" y="665.0">java.util.Set</node>
-            <node x="6.5" y="1352.0">java.util.NavigableSet</node>
-            <node x="442.40909090909093" y="0.0">java.lang.Iterable</node>
-            <node x="150.90909090909093" y="1761.0">java.util.TreeSet</node>
-            <node x="864.0" y="1517.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.TreeSet" target="java.lang.Cloneable">
-              <point x="119.0" y="-422.5" />
-              <point x="745.909090909091" y="1736.0" />
-              <point x="797.0" y="1736.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.Set" target="java.util.Collection">
-              <point x="0.0" y="-190.5" />
-              <point x="304.0" y="617.0" />
-              <point x="437.90909090909093" y="617.0" />
-              <point x="-116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.io.Serializable">
-              <point x="357.0" y="-422.5" />
-              <point x="983.909090909091" y="1736.0" />
-              <point x="915.5" y="1736.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.NavigableSet">
-              <point x="-357.0" y="-422.5" />
-              <point x="269.90909090909093" y="1736.0" />
-              <point x="202.5" y="1736.0" />
-              <point x="0.0" y="179.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.Set">
-              <point x="-49.0" y="-59.0" />
-              <point x="690.5" y="1094.0" />
-              <point x="405.5" y="1094.0" />
-              <point x="101.5" y="190.5" />
-            </edge>
-            <edge source="java.util.TreeSet" target="java.util.AbstractSet">
-              <point x="-119.0" y="-422.5" />
-              <point x="507.90909090909093" y="1736.0" />
-              <point x="739.5" y="1736.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="java.util.SortedSet" target="java.util.Set">
-              <point x="0.0" y="-91.5" />
-              <point x="-101.5" y="190.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="788.5" y="617.0" />
-              <point x="670.909090909091" y="617.0" />
-              <point x="116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.NavigableSet" target="java.util.SortedSet">
-              <point x="0.0" y="-179.5" />
-              <point x="0.0" y="91.5" />
-            </edge>
-            <edge source="java.util.AbstractSet" target="java.util.AbstractCollection">
-              <point x="49.0" y="-59.0" />
-              <point x="0.0" y="213.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-49.0" y="-193.0" />
-          <SelectedNodes>
-            <node>java.util.TreeSet</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/SimpleIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.ListIterator">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.ListIterator</OriginalElement>
-          <nodes>
-            <node x="50.0" y="0.0">java.util.Iterator</node>
-            <node x="0.0" y="167.0">java.util.ListIterator</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.ListIterator" target="java.util.Iterator">
-              <point x="0.0" y="-113.5" />
-              <point x="0.0" y="58.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-258.0" y="87.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/ListIterator.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.ListIterator</OriginalElement>
-          <nodes>
-            <node x="50.0" y="0.0">java.util.Iterator</node>
-            <node x="0.0" y="167.0">java.util.ListIterator</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.ListIterator" target="java.util.Iterator">
-              <point x="0.0" y="-113.5" />
-              <point x="0.0" y="58.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-258.0" y="87.0" />
-          <SelectedNodes>
-            <node>java.util.ListIterator</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="669" column="20" selection-start-line="669" selection-start-column="20" selection-end-line="669" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/pettest/pets1/PetCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/ArrayList.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.ArrayList</OriginalElement>
-          <nodes>
-            <node x="1161.0" y="1558.0">java.util.RandomAccess</node>
-            <node x="1308.0" y="1558.0">java.lang.Cloneable</node>
-            <node x="0.0" y="751.0">java.util.AbstractCollection</node>
-            <node x="543.0" y="642.0">java.util.List</node>
-            <node x="328.2175" y="145.0">java.util.Collection</node>
-            <node x="131.75" y="1337.0">java.util.AbstractList</node>
-            <node x="449.2175" y="0.0">java.lang.Iterable</node>
-            <node x="1038.0" y="1558.0">java.io.Serializable</node>
-            <node x="357.4424999999999" y="1858.0">java.util.ArrayList</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
-              <point x="507.20000000000016" y="-620.5" />
-              <point x="1498.6425" y="1838.0" />
-              <point x="1355.0" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
-              <point x="253.60000000000002" y="-620.5" />
-              <point x="1245.0425" y="1838.0" />
-              <point x="1224.5" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.io.Serializable">
-              <point x="1.1368683772161603E-13" y="-620.5" />
-              <point x="991.4425" y="1838.0" />
-              <point x="1089.5" y="1838.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-322.5" />
-              <point x="866.0" y="617.0" />
-              <point x="677.7175" y="617.0" />
-              <point x="116.5" y="223.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="129.75" y="-235.5" />
-              <point x="521.0" y="1312.0" />
-              <point x="704.5" y="1312.0" />
-              <point x="-161.5" y="322.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.List">
-              <point x="-253.5999999999999" y="-620.5" />
-              <point x="737.8425" y="1828.0" />
-              <point x="1027.5" y="1828.0" />
-              <point x="161.5" y="322.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-129.75" y="-235.5" />
-              <point x="0.0" y="213.5" />
-            </edge>
-            <edge source="java.util.ArrayList" target="java.util.AbstractList">
-              <point x="-507.19999999999993" y="-620.5" />
-              <point x="484.24249999999995" y="1838.0" />
-              <point x="391.25" y="1838.0" />
-              <point x="0.0" y="235.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-213.5" />
-              <point x="261.5" y="617.0" />
-              <point x="444.7175" y="617.0" />
-              <point x="-116.5" y="223.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="641.0" y="50.0" />
-          <SelectedNodes>
-            <node>java.util.ArrayList</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/Snow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3082,7 +1955,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3231,7 +2104,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="35" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3249,8 +2122,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3282,24 +2155,16 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="false" />
+            <element signature="e#250#251#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#378#379#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#534#535#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3428,30 +2293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Object.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.Object</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">java.lang.Object</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-260.5" y="93.5" />
-          <SelectedNodes>
-            <node>java.lang.Object</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/HashSet.uml">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -3534,6 +2375,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Object.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Object</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.lang.Object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-260.5" y="93.5" />
+          <SelectedNodes>
+            <node>java.lang.Object</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Class.uml">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -3581,7 +2446,7 @@
               <point x="0.0" y="25.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8999999999999999" x="1334.3333333333335" y="136.33333333333337" />
+          <settings layout="Hierarchic Group" zoom="0.8999999999999999" x="192.66666666666669" y="2144.6666666666665" />
           <SelectedNodes>
             <node>java.lang.Class</node>
           </SelectedNodes>
@@ -3592,6 +2457,806 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Set">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Set</OriginalElement>
+          <nodes>
+            <node x="0.0" y="145.0">java.util.Collection</node>
+            <node x="30.0" y="642.0">java.util.Set</node>
+            <node x="121.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Set" target="java.util.Collection">
+              <point x="0.0" y="-190.5" />
+              <point x="0.0" y="223.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7838926174496644" x="-318.83561643835617" y="-58.83561643835617" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Set.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Set</OriginalElement>
+          <nodes>
+            <node x="0.0" y="145.0">java.util.Collection</node>
+            <node x="30.0" y="642.0">java.util.Set</node>
+            <node x="121.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Set" target="java.util.Collection">
+              <point x="0.0" y="-190.5" />
+              <point x="0.0" y="223.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7838926174496644" x="-318.83561643835617" y="401.16438356164383" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/SortedSetOfInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOfInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Collection">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collection</OriginalElement>
+          <nodes>
+            <node x="0.0" y="145.0">java.util.Collection</node>
+            <node x="121.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-200.5" y="65.5" />
+          <SelectedNodes>
+            <node>java.util.Collection</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Collection.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collection</OriginalElement>
+          <nodes>
+            <node x="0.0" y="145.0">java.util.Collection</node>
+            <node x="121.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-200.5" y="65.5" />
+          <SelectedNodes>
+            <node>java.util.Collection</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/Collections.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collections</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.util.Collections</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8440773949976403" x="-98.66588393156655" y="57.334116068433445" />
+          <SelectedNodes>
+            <node>java.util.Collections</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Collections">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collections</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.Collections</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6440773949976404" x="1829.681784876905" y="-2791.497728604924" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5400" column="26" selection-start-line="5400" selection-start-column="26" selection-end-line="5400" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/SetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/UniqueWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/PetMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="1886.5833333333333" y="3192.5">java.util.HashMap.KeySpliterator</node>
+            <node x="2939.083333333333" y="2725.5">java.util.HashMap.HashIterator</node>
+            <node x="3014.5698529411766" y="851.5">java.lang.Cloneable</node>
+            <node x="3260.083333333333" y="2726.0">java.util.HashMap.KeySet</node>
+            <node x="803.5833333333333" y="3016.0">java.util.HashMap.TreeNode</node>
+            <node x="2683.833333333333" y="2737.0">java.util.HashMap.Values</node>
+            <node x="2339.583333333333" y="3192.5">java.util.HashMap.ValueSpliterator</node>
+            <node x="3149.1101998491704" y="3225.5">java.util.HashMap.KeyIterator</node>
+            <node x="2022.0833333333333" y="2714.5">java.util.HashMap.HashMapSpliterator</node>
+            <node x="2072.333333333333" y="1172.0">java.util.HashMap</node>
+            <node x="463.08333333333326" y="2692.0">java.util.AbstractMap.SimpleImmutableEntry</node>
+            <node x="1423.5833333333333" y="3192.5">java.util.HashMap.EntrySpliterator</node>
+            <node x="3622.083333333333" y="2726.0">java.util.HashMap.EntrySet</node>
+            <node x="517.3333333333333" y="851.5">java.io.Serializable</node>
+            <node x="640.3333333333333" y="630.0">java.util.AbstractMap</node>
+            <node x="871.0833333333333" y="2692.0">java.util.HashMap.Node</node>
+            <node x="609.3333333333333" y="0.0">java.util.Map</node>
+            <node x="376.8185331825041" y="1778.0">java.util.Map.Entry</node>
+            <node x="3488.583333333333" y="3225.5">java.util.HashMap.ValueIterator</node>
+            <node x="2878.833333333333" y="3225.5">java.util.HashMap.EntryIterator</node>
+            <node x="0.0" y="2692.0">java.util.AbstractMap.SimpleEntry</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.AbstractMap">
+              <point x="0.0" y="-137.0" />
+              <point x="194.0" y="2672.0" />
+              <point x="134.83333333333326" y="2672.0" />
+              <point x="134.83333333333326" y="1152.0" />
+              <point x="727.6666666666667" y="1152.0" />
+              <point x="-174.66666666666652" y="236.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap">
+              <point x="41.0" y="-37.0" />
+              <point x="3611.583333333333" y="2652.0" />
+              <point x="3353.25641025641" y="2652.0" />
+              <point x="556.9230769230771" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap">
+              <point x="150.0" y="-246.5" />
+              <point x="1253.5833333333333" y="2996.0" />
+              <point x="1184.5833333333333" y="2996.0" />
+              <point x="1184.5833333333333" y="2642.0" />
+              <point x="2239.410256410256" y="2642.0" />
+              <point x="-556.9230769230771" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="181.0" y="-720.0" />
+              <point x="2977.333333333333" y="1152.0" />
+              <point x="3004.0698529411766" y="1152.0" />
+              <point x="3004.0698529411766" y="605.0" />
+              <point x="1097.6666666666665" y="605.0" />
+              <point x="195.33333333333326" y="290.0" />
+            </edge>
+            <edge source="java.util.HashMap.Node" target="java.util.Map.Entry">
+              <point x="-75.75" y="-137.0" />
+              <point x="946.8333333333333" y="2662.0" />
+              <point x="620.9851998491708" y="2662.0" />
+              <point x="97.66666666666674" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+              <point x="75.75" y="-137.0" />
+              <point x="1098.3333333333333" y="2632.0" />
+              <point x="2128.0256410256407" y="2632.0" />
+              <point x="-668.3076923076924" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.Map.Entry">
+              <point x="-129.33333333333337" y="-137.0" />
+              <point x="527.7499999999998" y="2672.0" />
+              <point x="523.3185331825041" y="2672.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="110.75" y="-70.0" />
+              <point x="1755.8333333333333" y="2996.0" />
+              <point x="2079.583333333333" y="2996.0" />
+              <point x="-115.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap">
+              <point x="-110.75" y="-70.0" />
+              <point x="1534.3333333333333" y="2652.0" />
+              <point x="2350.794871794872" y="2652.0" />
+              <point x="-445.53846153846143" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="543.0" y="-720.0" />
+              <point x="3339.333333333333" y="1152.0" />
+              <point x="3061.5698529411766" y="1152.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.io.Serializable">
+              <point x="-129.33333333333326" y="-137.0" />
+              <point x="64.66666666666674" y="2672.0" />
+              <point x="123.83333333333326" y="2672.0" />
+              <point x="123.83333333333326" y="1142.0" />
+              <point x="534.4999999999998" y="1142.0" />
+              <point x="-34.333333333333485" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.HashIterator" target="java.util.HashMap">
+              <point x="0.0" y="-103.5" />
+              <point x="3089.583333333333" y="2672.0" />
+              <point x="3019.1025641025635" y="2672.0" />
+              <point x="222.7692307692305" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.AbstractMap">
+              <point x="129.33333333333348" y="-137.0" />
+              <point x="786.4166666666667" y="2672.0" />
+              <point x="902.3333333333333" y="2672.0" />
+              <point x="0.0" y="236.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap.HashIterator">
+              <point x="-41.0" y="-37.0" />
+              <point x="3529.583333333333" y="2986.0" />
+              <point x="3189.916666666667" y="2986.0" />
+              <point x="100.33333333333348" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.Values" target="java.util.HashMap">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.HashMapSpliterator" target="java.util.HashMap">
+              <point x="0.0" y="-114.5" />
+              <point x="2194.583333333333" y="2672.0" />
+              <point x="2573.5641025641025" y="2672.0" />
+              <point x="-222.7692307692305" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap.HashIterator">
+              <point x="-38.0" y="-37.0" />
+              <point x="3187.1101998491704" y="2996.0" />
+              <point x="3089.583333333333" y="2996.0" />
+              <point x="0.0" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap.Node">
+              <point x="-150.0" y="-246.5" />
+              <point x="953.5833333333333" y="2996.0" />
+              <point x="1022.5833333333333" y="2996.0" />
+              <point x="0.0" y="137.0" />
+            </edge>
+            <edge source="java.util.HashMap.KeySet" target="java.util.HashMap">
+              <point x="0.0" y="-103.0" />
+              <point x="3382.583333333333" y="2672.0" />
+              <point x="3130.4871794871797" y="2672.0" />
+              <point x="334.1538461538462" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-181.0" y="-720.0" />
+              <point x="2615.333333333333" y="1122.0" />
+              <point x="1077.0" y="1122.0" />
+              <point x="174.66666666666674" y="236.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.Map.Entry">
+              <point x="129.33333333333337" y="-137.0" />
+              <point x="323.33333333333326" y="2672.0" />
+              <point x="425.65186651583736" y="2672.0" />
+              <point x="-97.66666666666669" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap.HashIterator">
+              <point x="40.5" y="-37.0" />
+              <point x="3000.333333333333" y="2996.0" />
+              <point x="2989.25" y="2996.0" />
+              <point x="-100.33333333333348" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap">
+              <point x="111.25" y="-70.0" />
+              <point x="2673.333333333333" y="2672.0" />
+              <point x="2684.948717948718" y="2672.0" />
+              <point x="-111.38461538461524" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.io.Serializable">
+              <point x="0.0" y="-137.0" />
+              <point x="657.0833333333333" y="2672.0" />
+              <point x="727.3185331825041" y="2672.0" />
+              <point x="727.3185331825041" y="1142.0" />
+              <point x="568.8333333333333" y="1142.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap">
+              <point x="-108.25" y="-70.0" />
+              <point x="1994.8333333333333" y="2986.0" />
+              <point x="2011.5833333333333" y="2986.0" />
+              <point x="2011.5833333333333" y="2662.0" />
+              <point x="2462.1794871794873" y="2662.0" />
+              <point x="-334.1538461538462" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="-111.25" y="-70.0" />
+              <point x="2450.833333333333" y="2996.0" />
+              <point x="2309.583333333333" y="2996.0" />
+              <point x="115.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="108.25" y="-70.0" />
+              <point x="2211.333333333333" y="2996.0" />
+              <point x="2194.583333333333" y="2996.0" />
+              <point x="0.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap">
+              <point x="38.0" y="-37.0" />
+              <point x="3263.1101998491704" y="2996.0" />
+              <point x="3515.583333333333" y="2996.0" />
+              <point x="3515.583333333333" y="2662.0" />
+              <point x="3241.871794871795" y="2662.0" />
+              <point x="445.5384615384619" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-236.0" />
+              <point x="0.0" y="290.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySet" target="java.util.HashMap">
+              <point x="0.0" y="-103.0" />
+              <point x="3749.583333333333" y="2642.0" />
+              <point x="3464.6410256410254" y="2642.0" />
+              <point x="668.3076923076924" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="-543.0" y="-720.0" />
+              <point x="2253.333333333333" y="1132.0" />
+              <point x="603.1666666666667" y="1132.0" />
+              <point x="34.33333333333337" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap">
+              <point x="-40.5" y="-37.0" />
+              <point x="2919.333333333333" y="2672.0" />
+              <point x="2907.7179487179483" y="2672.0" />
+              <point x="111.38461538461524" y="720.0" />
+            </edge>
+            <edge source="java.util.Map.Entry" target="java.util.Map">
+              <point x="0.0" y="-114.0" />
+              <point x="523.3185331825041" y="1132.0" />
+              <point x="411.83333333333326" y="1132.0" />
+              <point x="411.83333333333326" y="605.0" />
+              <point x="706.9999999999998" y="605.0" />
+              <point x="-195.33333333333348" y="290.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.37257013318220455" x="1163.1740188621843" y="2741.1740188621843" />
+          <SelectedNodes>
+            <node>java.util.HashMap</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+          <folding>
+            <element signature="e#66765#66766#0" expanded="true" />
+            <element signature="e#66822#66823#0" expanded="true" />
+            <element signature="e#66936#66937#0" expanded="true" />
+            <element signature="e#66999#67000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/uml/HashMap.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="1886.5833333333333" y="3192.5">java.util.HashMap.KeySpliterator</node>
+            <node x="2939.083333333333" y="2725.5">java.util.HashMap.HashIterator</node>
+            <node x="3014.5698529411766" y="851.5">java.lang.Cloneable</node>
+            <node x="3260.083333333333" y="2726.0">java.util.HashMap.KeySet</node>
+            <node x="803.5833333333333" y="3016.0">java.util.HashMap.TreeNode</node>
+            <node x="2683.833333333333" y="2737.0">java.util.HashMap.Values</node>
+            <node x="2339.583333333333" y="3192.5">java.util.HashMap.ValueSpliterator</node>
+            <node x="3149.1101998491704" y="3225.5">java.util.HashMap.KeyIterator</node>
+            <node x="2022.0833333333333" y="2714.5">java.util.HashMap.HashMapSpliterator</node>
+            <node x="2072.333333333333" y="1172.0">java.util.HashMap</node>
+            <node x="463.08333333333326" y="2692.0">java.util.AbstractMap.SimpleImmutableEntry</node>
+            <node x="1423.5833333333333" y="3192.5">java.util.HashMap.EntrySpliterator</node>
+            <node x="3622.083333333333" y="2726.0">java.util.HashMap.EntrySet</node>
+            <node x="517.3333333333333" y="851.5">java.io.Serializable</node>
+            <node x="640.3333333333333" y="630.0">java.util.AbstractMap</node>
+            <node x="871.0833333333333" y="2692.0">java.util.HashMap.Node</node>
+            <node x="609.3333333333333" y="0.0">java.util.Map</node>
+            <node x="376.8185331825041" y="1778.0">java.util.Map.Entry</node>
+            <node x="3488.583333333333" y="3225.5">java.util.HashMap.ValueIterator</node>
+            <node x="2878.833333333333" y="3225.5">java.util.HashMap.EntryIterator</node>
+            <node x="0.0" y="2692.0">java.util.AbstractMap.SimpleEntry</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.AbstractMap">
+              <point x="0.0" y="-137.0" />
+              <point x="194.0" y="2672.0" />
+              <point x="134.83333333333326" y="2672.0" />
+              <point x="134.83333333333326" y="1152.0" />
+              <point x="727.6666666666667" y="1152.0" />
+              <point x="-174.66666666666652" y="236.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap">
+              <point x="41.0" y="-37.0" />
+              <point x="3611.583333333333" y="2652.0" />
+              <point x="3353.25641025641" y="2652.0" />
+              <point x="556.9230769230771" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap">
+              <point x="150.0" y="-246.5" />
+              <point x="1253.5833333333333" y="2996.0" />
+              <point x="1184.5833333333333" y="2996.0" />
+              <point x="1184.5833333333333" y="2642.0" />
+              <point x="2239.410256410256" y="2642.0" />
+              <point x="-556.9230769230771" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="181.0" y="-720.0" />
+              <point x="2977.333333333333" y="1152.0" />
+              <point x="3004.0698529411766" y="1152.0" />
+              <point x="3004.0698529411766" y="605.0" />
+              <point x="1097.6666666666665" y="605.0" />
+              <point x="195.33333333333326" y="290.0" />
+            </edge>
+            <edge source="java.util.HashMap.Node" target="java.util.Map.Entry">
+              <point x="-75.75" y="-137.0" />
+              <point x="946.8333333333333" y="2662.0" />
+              <point x="620.9851998491708" y="2662.0" />
+              <point x="97.66666666666674" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.Node" target="java.util.HashMap">
+              <point x="75.75" y="-137.0" />
+              <point x="1098.3333333333333" y="2632.0" />
+              <point x="2128.0256410256407" y="2632.0" />
+              <point x="-668.3076923076924" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.Map.Entry">
+              <point x="-129.33333333333337" y="-137.0" />
+              <point x="527.7499999999998" y="2672.0" />
+              <point x="523.3185331825041" y="2672.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="110.75" y="-70.0" />
+              <point x="1755.8333333333333" y="2996.0" />
+              <point x="2079.583333333333" y="2996.0" />
+              <point x="-115.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySpliterator" target="java.util.HashMap">
+              <point x="-110.75" y="-70.0" />
+              <point x="1534.3333333333333" y="2652.0" />
+              <point x="2350.794871794872" y="2652.0" />
+              <point x="-445.53846153846143" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="543.0" y="-720.0" />
+              <point x="3339.333333333333" y="1152.0" />
+              <point x="3061.5698529411766" y="1152.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.io.Serializable">
+              <point x="-129.33333333333326" y="-137.0" />
+              <point x="64.66666666666674" y="2672.0" />
+              <point x="123.83333333333326" y="2672.0" />
+              <point x="123.83333333333326" y="1142.0" />
+              <point x="534.4999999999998" y="1142.0" />
+              <point x="-34.333333333333485" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.HashIterator" target="java.util.HashMap">
+              <point x="0.0" y="-103.5" />
+              <point x="3089.583333333333" y="2672.0" />
+              <point x="3019.1025641025635" y="2672.0" />
+              <point x="222.7692307692305" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.util.AbstractMap">
+              <point x="129.33333333333348" y="-137.0" />
+              <point x="786.4166666666667" y="2672.0" />
+              <point x="902.3333333333333" y="2672.0" />
+              <point x="0.0" y="236.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueIterator" target="java.util.HashMap.HashIterator">
+              <point x="-41.0" y="-37.0" />
+              <point x="3529.583333333333" y="2986.0" />
+              <point x="3189.916666666667" y="2986.0" />
+              <point x="100.33333333333348" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.Values" target="java.util.HashMap">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.HashMapSpliterator" target="java.util.HashMap">
+              <point x="0.0" y="-114.5" />
+              <point x="2194.583333333333" y="2672.0" />
+              <point x="2573.5641025641025" y="2672.0" />
+              <point x="-222.7692307692305" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap.HashIterator">
+              <point x="-38.0" y="-37.0" />
+              <point x="3187.1101998491704" y="2996.0" />
+              <point x="3089.583333333333" y="2996.0" />
+              <point x="0.0" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.TreeNode" target="java.util.HashMap.Node">
+              <point x="-150.0" y="-246.5" />
+              <point x="953.5833333333333" y="2996.0" />
+              <point x="1022.5833333333333" y="2996.0" />
+              <point x="0.0" y="137.0" />
+            </edge>
+            <edge source="java.util.HashMap.KeySet" target="java.util.HashMap">
+              <point x="0.0" y="-103.0" />
+              <point x="3382.583333333333" y="2672.0" />
+              <point x="3130.4871794871797" y="2672.0" />
+              <point x="334.1538461538462" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-181.0" y="-720.0" />
+              <point x="2615.333333333333" y="1122.0" />
+              <point x="1077.0" y="1122.0" />
+              <point x="174.66666666666674" y="236.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleEntry" target="java.util.Map.Entry">
+              <point x="129.33333333333337" y="-137.0" />
+              <point x="323.33333333333326" y="2672.0" />
+              <point x="425.65186651583736" y="2672.0" />
+              <point x="-97.66666666666669" y="114.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap.HashIterator">
+              <point x="40.5" y="-37.0" />
+              <point x="3000.333333333333" y="2996.0" />
+              <point x="2989.25" y="2996.0" />
+              <point x="-100.33333333333348" y="103.5" />
+            </edge>
+            <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap">
+              <point x="111.25" y="-70.0" />
+              <point x="2673.333333333333" y="2672.0" />
+              <point x="2684.948717948718" y="2672.0" />
+              <point x="-111.38461538461524" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap.SimpleImmutableEntry" target="java.io.Serializable">
+              <point x="0.0" y="-137.0" />
+              <point x="657.0833333333333" y="2672.0" />
+              <point x="727.3185331825041" y="2672.0" />
+              <point x="727.3185331825041" y="1142.0" />
+              <point x="568.8333333333333" y="1142.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap">
+              <point x="-108.25" y="-70.0" />
+              <point x="1994.8333333333333" y="2986.0" />
+              <point x="2011.5833333333333" y="2986.0" />
+              <point x="2011.5833333333333" y="2662.0" />
+              <point x="2462.1794871794873" y="2662.0" />
+              <point x="-334.1538461538462" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap.ValueSpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="-111.25" y="-70.0" />
+              <point x="2450.833333333333" y="2996.0" />
+              <point x="2309.583333333333" y="2996.0" />
+              <point x="115.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeySpliterator" target="java.util.HashMap.HashMapSpliterator">
+              <point x="108.25" y="-70.0" />
+              <point x="2211.333333333333" y="2996.0" />
+              <point x="2194.583333333333" y="2996.0" />
+              <point x="0.0" y="114.5" />
+            </edge>
+            <edge source="java.util.HashMap.KeyIterator" target="java.util.HashMap">
+              <point x="38.0" y="-37.0" />
+              <point x="3263.1101998491704" y="2996.0" />
+              <point x="3515.583333333333" y="2996.0" />
+              <point x="3515.583333333333" y="2662.0" />
+              <point x="3241.871794871795" y="2662.0" />
+              <point x="445.5384615384619" y="720.0" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-236.0" />
+              <point x="0.0" y="290.0" />
+            </edge>
+            <edge source="java.util.HashMap.EntrySet" target="java.util.HashMap">
+              <point x="0.0" y="-103.0" />
+              <point x="3749.583333333333" y="2642.0" />
+              <point x="3464.6410256410254" y="2642.0" />
+              <point x="668.3076923076924" y="720.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="-543.0" y="-720.0" />
+              <point x="2253.333333333333" y="1132.0" />
+              <point x="603.1666666666667" y="1132.0" />
+              <point x="34.33333333333337" y="14.5" />
+            </edge>
+            <edge source="java.util.HashMap.EntryIterator" target="java.util.HashMap">
+              <point x="-40.5" y="-37.0" />
+              <point x="2919.333333333333" y="2672.0" />
+              <point x="2907.7179487179483" y="2672.0" />
+              <point x="111.38461538461524" y="720.0" />
+            </edge>
+            <edge source="java.util.Map.Entry" target="java.util.Map">
+              <point x="0.0" y="-114.0" />
+              <point x="523.3185331825041" y="1132.0" />
+              <point x="411.83333333333326" y="1132.0" />
+              <point x="411.83333333333326" y="605.0" />
+              <point x="706.9999999999998" y="605.0" />
+              <point x="-195.33333333333348" y="290.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8725701331822044" x="461.0495242425227" y="456.0495242425227" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava11/MapOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4245283">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
