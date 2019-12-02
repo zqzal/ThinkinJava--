@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="9a25296a-af60-4de7-8df6-78b4dd1072a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/ExtraFeatures.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/InhertingExceptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/LoggingException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/LoggingException2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/LoggingExceptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/MyException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/MyException2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/SimpleException.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/InheritingExceptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/com/thinkinginjava12/InheritingExceptions.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java编程思想4.xmind" afterPath="$PROJECT_DIR$/../Java编程思想4.xmind" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/CodeAllLine.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava11/CodeAllLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/FullConstructors.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/FullConstructors.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/MyException.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/MyException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/SimpleException.class" afterPath="$PROJECT_DIR$/out/production/HelloDate/com/com/thinkinginjava12/SimpleException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/com/thinkinginjava12/FullConstructors.java" afterPath="$PROJECT_DIR$/src/com/com/thinkinginjava12/FullConstructors.java" />
     </list>
     <ignored path="HelloDate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,8 +66,8 @@
       <file leaf-file-name="ExtraFeatures.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava12/ExtraFeatures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.673716">
-              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="47" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.3202417">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -206,8 +190,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="23" />
+    <option name="x" value="26" />
+    <option name="y" value="48" />
     <option name="width" value="1817" />
     <option name="height" value="1088" />
   </component>
@@ -1080,7 +1064,7 @@
       <workItem from="1575019253186" duration="2025000" />
       <workItem from="1575078220864" duration="14193000" />
       <workItem from="1575096335784" duration="685000" />
-      <workItem from="1575247143004" duration="21482000" />
+      <workItem from="1575247143004" duration="22928000" />
     </task>
     <task id="LOCAL-00001" summary="测试SVN提交">
       <created>1550222995048</created>
@@ -1194,7 +1178,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384680000" />
+    <option name="totallyTimeSpent" value="386126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1206,7 +1190,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="23" width="1817" height="1088" extended-state="0" />
+    <frame x="26" y="48" width="1817" height="1088" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2060,8 +2044,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/com/thinkinginjava12/ExtraFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.673716">
-          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="47" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.3202417">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
