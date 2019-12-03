@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Exception</OriginalElement>
+  <nodes>
+    <node x="10.5" y="1030.0">java.lang.Throwable.SentinelHolder</node>
+    <node x="102.6722222222221" y="79.0">java.lang.Throwable</node>
+    <node x="714.9722222222223" y="1209.0">java.lang.Throwable.WrappedPrintWriter</node>
+    <node x="464.5" y="1030.0">java.lang.Throwable.PrintStreamOrWriter</node>
+    <node x="146.47222222222223" y="1209.0">java.lang.Throwable.WrappedPrintStream</node>
+    <node x="712.5" y="997.0">java.lang.Exception</node>
+    <node x="515.172222222222" y="0.0">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.Throwable.SentinelHolder" target="java.lang.Throwable">
+      <point x="0.0" y="-48.0" />
+      <point x="227.5" y="972.0" />
+      <point x="381.07222222222214" y="972.0" />
+      <point x="-185.59999999999997" y="434.0" />
+    </edge>
+    <edge source="java.lang.Exception" target="java.lang.Throwable">
+      <point x="0.0" y="-81.0" />
+      <point x="856.5" y="972.0" />
+      <point x="752.2722222222222" y="972.0" />
+      <point x="185.60000000000014" y="434.0" />
+    </edge>
+    <edge source="java.lang.Throwable.WrappedPrintWriter" target="java.lang.Throwable.PrintStreamOrWriter">
+      <point x="-62.25" y="-59.5" />
+      <point x="777.2222222222223" y="1184.0" />
+      <point x="635.5" y="1184.0" />
+      <point x="57.0" y="48.0" />
+    </edge>
+    <edge source="java.lang.Throwable.WrappedPrintStream" target="java.lang.Throwable">
+      <point x="-65.25" y="-59.5" />
+      <point x="211.72222222222223" y="1184.0" />
+      <point x="0.0" y="1184.0" />
+      <point x="0.0" y="972.0" />
+      <point x="195.47222222222211" y="972.0" />
+      <point x="-371.2" y="434.0" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.io.Serializable">
+      <point x="-1.1368683772161603E-13" y="-434.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Throwable.PrintStreamOrWriter" target="java.lang.Throwable">
+      <point x="0.0" y="-48.0" />
+      <point x="578.5" y="972.0" />
+      <point x="566.6722222222222" y="972.0" />
+      <point x="1.1368683772161603E-13" y="434.0" />
+    </edge>
+    <edge source="java.lang.Throwable.WrappedPrintStream" target="java.lang.Throwable.PrintStreamOrWriter">
+      <point x="65.25" y="-59.5" />
+      <point x="342.22222222222223" y="1184.0" />
+      <point x="521.5" y="1184.0" />
+      <point x="-57.0" y="48.0" />
+    </edge>
+    <edge source="java.lang.Throwable.WrappedPrintWriter" target="java.lang.Throwable">
+      <point x="62.25" y="-59.5" />
+      <point x="901.7222222222223" y="1184.0" />
+      <point x="1011.0" y="1184.0" />
+      <point x="1011.0" y="972.0" />
+      <point x="937.8722222222223" y="972.0" />
+      <point x="371.20000000000016" y="434.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7710682492581602" x="516.4635366557629" y="1104.766403694439" />
+  <SelectedNodes>
+    <node>java.lang.Exception</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
