@@ -12,7 +12,7 @@ public class CodeAllLine {
     private static int i;//代码总行数
     private static int j;//文件个数
     public static void main(String[] args) throws IOException {
-        File file = new File("/Users/xuxi/Desktop/github/ThinkinJava--MindMapping/ThinkJava/src/com");//需要统计行数的文件夹路径
+        File file = new File("/Users/xuxi/Desktop/fefe");//需要统计行数的文件夹路径
         traverseFiles(file);//调用递归方法查看.java文件，用于统计行数
         System.out.println("所写文件个数："+j);
         System.out.println("所写代码总行数："+i);
@@ -24,7 +24,7 @@ public class CodeAllLine {
 
         if(!file.isDirectory()){//判断是否为文件
             String filename = file.getName();
-            if(filename.endsWith(".java")){//判断是否是.java文件
+            if(filename.endsWith(".h") || filename.endsWith(".m")){//判断是否是.java文件
                 j++;
                 BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
                 String string =null;
