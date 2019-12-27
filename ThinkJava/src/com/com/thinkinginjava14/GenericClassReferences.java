@@ -22,3 +22,15 @@ public class GenericClassReferences {
         // genericIntClass = double.class; //Illegal 非法
     }
 }
+/**
+    普通的类引用不会产生警告信息，你可以看到，尽管泛型类引用只能赋值为指向器声明的
+ 类型，但是普通的类引用可以被重载赋值为指向任何其他的Class对象。通过使用泛型语法，可以
+ 让编译器强制执行额外的类型检查。
+    如果你希望稍微放松一些这种限制，应该怎么办呢？咋一看，好像你应该能够执行类似下面
+ 这样的操作：
+    Class<Number> genericNumberClass = int.class;
+ 这看起来似乎是起作用的，因为Integer继承自Number。但是它无法工作，因为 Integer Class
+ 对象不是Number Class对象的子类（这种差异看起来可能有些诡异，我们将在第15章中深入讨论它）
+    为了在使用泛化的Class引用时放松限制，我使用了通配符，它是Java泛型的一部分。通配符就是
+ " ？"，表示"任何事物"。因此，我们可以在上列的普通Class引用中添加通配符，并产生相同的结果：
+ */
