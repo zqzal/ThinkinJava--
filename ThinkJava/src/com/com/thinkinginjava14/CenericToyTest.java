@@ -17,7 +17,7 @@ public class CenericToyTest {
     }
 }
 /**
-  如果你手头的是超类，那编译器将只允许你声明超类引用是"某个类，它是FancyToy超类"，
+ 如果你手头的是超类，那编译器将只允许你声明超类引用是"某个类，它是FancyToy超类"，
  就像在表达式Class<? Super FancyToy>中所看到的，而不会接受Class<Toy>这样的声明。这看
  上去显得有些怪，因为getSuperClass()方法返回的是基类（不是接口）。并且编译器在编译期就
  知道它是什么类型了--在本例中就是Toy.class--而不仅仅只是"某个类，他是FancyToy超类"。
